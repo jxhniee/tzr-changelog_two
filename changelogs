@@ -1,0 +1,2261 @@
+[
+  {
+    "version": "26.4.4",
+    "date": "2026-07-17",
+    "title": "URGENT: Account Compromised",
+    "content": [],
+    "dev_comment": "TZR's group and account have been compromised and ownership has been transferred without authorization. Please leave the game for now and do not spend Robux until this is resolved. We are working with Roblox Support to restore ownership.",
+    "highlights": [
+      "THIS GAME HAS BEEN HACKED",
+      "THE ORIGINAL DEVELOPERS OF THIS GAME ARE NO LONGER IN CHARGE",
+      "PLEASE LEAVE THE GAME AND AVOID SPENDING ROBUX UNTIL FURTHER NOTICE",
+      "\"31 Gaming\" IS NOT THE ORIGINAL OWNER. \"Hard Working Sloths\" IS."
+    ]
+  },
+  {
+    "version": "26.4.2",
+    "date": "2026-07-10",
+    "title": "The Commodus Update: Patch 2",
+    "content": [
+      {
+        "header": "New Content & Features:",
+        "items": [
+          "New Map: The Watch"
+        ]
+      },
+      {
+        "header": "Game Improvements:",
+        "items": [
+          "Heavily reduced game lag",
+          "Improved AI Performance",
+          "Tanks will now try to center themselves to aim at the core, when close to the base",
+          "AI obsessing over the middle of the map is no more"
+        ]
+      },
+      {
+        "header": "General Adjustments:",
+        "items": [
+          {
+            "Reduced effects of LOW HEALTH SPEED PENALTY:": [
+              "Previously it started reducing from 66% HP at a rate of -1.5%, up to -50% Speed at roughly 33% HP.",
+              "Once below 50% HP, you will start inccuring LOW HEALTH SPEED PENALTY, at a rate of -2% Speed per 1% HP below 50%. The penalty caps out at -33% Speed at 33% HP. This penalty can be influenced by perk and augment."
+            ]
+          },
+          "Reduced the size of the fire effect when triggering abilities",
+          "Miraculum Orientis refuses to be used with other melees.",
+          "Safety Override now gives -10 stamina instead of -5",
+          "Increased cost of Power Module augments"
+        ]
+      },
+      {
+        "header": "Weapon Adjustments:",
+        "items": [
+          "Kirisute Gomen\u2019s shop restriction has been reimplemented",
+          "Picking up Golden Katana under Kirisute Gomen conditions (before wave 2) now auto-sells your inventory",
+          "Reverted Deshuller MK.VI health nerf",
+          "Peltast now has a scope with 3x less magnification than traditional snipers",
+          "M250 now has a scope with 3x less magnification than traditional snipers",
+          {
+            "AK47 buffed:": [
+              "DMG: 50 -> 55",
+              "Max Range: 1250 -> 1750",
+              "Mags: 7 -> 8"
+            ]
+          },
+          {
+            "P90 buffed:": [
+              "Range: 250-1250 -> 300-1500",
+              "DMG: 25 -> 30",
+              "Mags: 5 -> 6",
+              "Halved recoil"
+            ]
+          },
+          "Guerilla Fighter nerfed:"
+        ]
+      },
+      {
+        "header": "General Fixes:",
+        "items": [
+          "Fixed Life Absorb not working as intended",
+          "Fixed Sword n Shield, Wagon Disguise not giving its speed boost",
+          "Fixed golden katana having a weird grip position"
+        ]
+      }
+    ],
+    "dev_comment": "A secondary wave of patch has released to the game!",
+    "highlights": [
+      "A new map has entered the roster!",
+      "Heavily Reduced Game Lagging",
+      "Massive improvements to the AI",
+      "General Fixes & Adjustments"
+    ]
+  },
+  {
+    "version": "26.4.1",
+    "date": "2026-06-28",
+    "title": "The Commodus Update: Patch 1",
+    "content": [
+      {
+        "header": "General Fixes:",
+        "items": [
+          "Fixed CW Wave 10 softlocking",
+          "Fixed Knightly Hashashin not being considered a mechanical enemy and will now correctly be damaged by EMP weaponries",
+          "Fixed Safety Override (AUGMENT) displaying its augmentation maintenance multiplier as +100% when in actuality it gave +250%",
+          "Fixed Guerilla Fighter (AUGMENT) displaying its cooldown as 60s when in actuality it was 45s. It now has the correct cooldown of 60s."
+        ]
+      },
+      {
+        "header": "Weapon Adjustments::",
+        "items": [
+          "Wagon Disguise nerfed",
+          "Speed bonus: 18 -> 6",
+          "Republican Guard armor nerfed",
+          "Now requires 3 participation score to trigger the global effect instead of 1",
+          "Life Absorb (Perk) now works on mechanical enemies at half effect",
+          "Fixed Knightly Hashashin not being a mechanical enemy"
+        ]
+      }
+    ],
+    "dev_comment": "Post-Release PATCH",
+    "highlights": [
+      "Fixed  CW Wave 10 softlocking",
+      "General Fixes",
+      "Weapon Adjustments",
+      "Note: We are investigating the unknown spike of lag inside the game. We'll let you know once we find the issue!"
+    ]
+  },
+  {
+    "version": "26.4.0",
+    "date": "2026-06-26",
+    "title": "The Commodus Update",
+    "content": [
+      {
+        "header": "New Content & Features:",
+        "items": [
+          "A new augment slot has arrived: \"Mod\"",
+          "New Friendlist, a new way to join your friends even faster (and NOT STALK THEM...)",
+          {
+            "New Items!": [
+              "Added Republican Guard Armor (new token armor)",
+              "Added Shield Apocalypse Gear (new token armor)",
+              "Added Subsonic Wheelchair (new token armor)",
+              "Added Wagon Disguise (new token ranged weapon)",
+              "Added Peltast (new token ranged weapon)"
+            ]
+          },
+          "Added new variant map \u201cBeautiful Site,\u201d the aftermath of the undead site contract. The scenery is just beautiful!",
+          {
+            "Improvements to compatibility": [
+              "Mobile UI layout overhaul, including buttons supporting previously missing features and a custom cursor"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Chat Adjustments:",
+        "items": [
+          "Quick Chat has been heavily altered in order to abide with Roblox's official Preset Chat guidelines. As a result, it has become extremely limited and vague but it is what it is for now"
+        ]
+      },
+      {
+        "header": "Adjustments:",
+        "items": [
+          "Adjusted the Mobile crosshair positioning to be slightly lower and more consistent across different screen sizes.",
+          "Crouching now regenerates stamina slightly faster.",
+          "Halved HP of the most basic zombie"
+        ]
+      },
+      {
+        "header": "Armor Adjustments:",
+        "items": [
+          {
+            "Armor of Acknee rebalanced": [
+              "No longer reduces ranged DMG",
+              "Now reduces HP Regen to x50% if under 250 weight instead of x75%",
+              "RDF DMG/Titan Turrets buff: +15%/+30% -> +20%/+40%"
+            ]
+          },
+          "Removed crouching with wheelchair"
+        ]
+      },
+      {
+        "header": "Weapon Adjustments::",
+        "items": [
+          "Potassium Enforcer rebalanced to early-mid game."
+        ]
+      },
+      {
+        "header": "General Fixes:",
+        "items": [
+          "Fixed Throwable/DATL/Equipment's \"Manually Replacing\" penalty not working, it is supposed to be only 15% faster with ammo box refill (excluding ammo box refill specific modifiers which correctly reload these weapons faster) instead of using the standard weapon reload time of 6s",
+          "Fixed Veteran Falcon firing its MG slower than intended",
+          "Fixed stamina draining when \"sprinting\" even while standing still.",
+          "Fixed some issues with Console/Gamepad"
+        ]
+      }
+    ],
+    "dev_comment": "After a rather long hiatus, the TZR Dev Team would like to present to you another two-parter update! I hope you enjoy the first part as we prep for a major one for part two!",
+    "highlights": [
+      "New augment slot has arrived: \"Mod\"",
+      "New Friend list, a new way to join your friends even faster",
+      "New Items: Republican Guard Armor, Shield Apocalypse Gear,  Subsonic Wheelchair, Wagon Disguise, Peltast",
+      "Added new variant map: Beautiful Site"
+    ]
+  },
+  {
+    "version": "26.3.2",
+    "date": "2026-04-01",
+    "title": "April Fools Update",
+    "content": [
+      {
+        "header": "New Features",
+        "items": [
+          "Civil War has been added with new content!",
+          "New mercenaries for hire in civil war",
+          "New Equipments!",
+          "Disposable anti-tank launcher weapons",
+          "Grenades has been reworked"
+        ]
+      },
+      {
+        "header": "General Adjustments",
+        "items": [
+          "Changing your perks and augments outside of intermission now triggers a respawn, and a subsequent stacking of respawn time if you do it repeatedly. This does not count towards your deaths.",
+          "Huysven infantry speed has been halved"
+        ]
+      },
+      {
+        "header": "Base Adjustments",
+        "items": [
+          "CORE gets +5k on civil war and DIV, GATE gets +5k on DIV",
+          "The base has removed the balcony, with an upcoming base changes in the future."
+        ]
+      },
+      {
+        "header": "Dedsfang Adjustments",
+        "items": [
+          "Fixed the horrendous fog on the last wave on Deluge",
+          "Cypher (Deluge)",
+          "Rest (Healing)",
+          "Slightly reduced the health threshold that he can use it at so he isn't wasting as much of it",
+          "Cancel early if he's already at full healthCancel early if he finds that he's taking more damage than healing (only for the enemy version)",
+          "Allied Cypher should attempt using it more often when sitting at the base",
+          "Chase-down (Charge)",
+          "Reduced the amount of drift reduction in Impossible mode so it's less of a jump compared to Revenge (Bri'ish mode still has the current one)",
+          "Arm Kanone",
+          "Slightly nerfed damage",
+          "RPG, Arm Kanone, RPG Ranger",
+          "Doubled projecticle speed. (240 \u2192 480)",
+          "This is still ridiculously low compared to most other enemy projectiles",
+          "Rocketractor:",
+          "Now fires inaccurate rockets instead of missiles",
+          "DMG: 3000 > 2000",
+          "HP: 8000 \u2192 12000",
+          "Restored Eagle Hunter's 2x damage against aerial targets from its pre-rework version"
+        ]
+      },
+      {
+        "header": "RDF Adjustments",
+        "items": [
+          "Since allied tanks now move closer to the front, they now have 50% more max HP",
+          "Lion Ace now has 80k HP",
+          "Allied tanks now prefer longer engagement ranges the more damaged they are",
+          "Tanks has been adjusted to improve performace (Look into the trello for information about it)",
+          "Doubled allied (RDF) Invictus' panzerfaust projectile speed, also applied for legion XII sipahi"
+        ]
+      },
+      {
+        "header": "Weapon Adjustments",
+        "items": [
+          "Fixed Solothurn S-18 not getting affected by Blast Radius modifier",
+          "Fixed Potassium Enforcer not getting affected by Blast Radius modifier, increased the base value from 45 to 80",
+          "Kyths RPG buffed",
+          "Blast Radius: 25 -> 60",
+          "Explosive Damage Ratio: 15% -> 25%",
+          "Fixed a bug concerning CK1 causing it to not deal DMG",
+          "Fixed/buffed XIV Armor back to +15 Stamina instead of +10"
+        ]
+      },
+      {
+        "header": "Armour Adjustments",
+        "items": [
+          "Certain armor attachments (like Advanced Ballistic Optics) will now reset your character to properly update the stats"
+        ]
+      },
+      {
+        "header": "Engineer Adjustments:",
+        "items": [
+          "Scraps capture bonus down to 10 per tier The base bonus for capturing tanks is now dependent on their supplies requirement. You will instead get 30% of the supplies required as the coins bonus. For example capturing a ZAC will yield 30 coins since it requires 100 supplies. An imperial destroyer yields 90.",
+          "Tier 3 Landmines now require 150 supplies to detonate"
+        ]
+      },
+      {
+        "header": "Bug Fixes:",
+        "items": [
+          "Fixed all tank MG",
+          "Fixed wrench not being able to \u201crepair\u201d destroyed allied tanks with the main function being to reduce their cooldown. Updated the tooltip to reflect this",
+          "Fixed being able to capture tanks not part of the wave",
+          "Fixed Joe's gas grenade not having a noise that sounds like gas is releasing",
+          "Fixed a Network owner shenanigans with the NPCs which may feel more awkward to fight at first especially cypher"
+        ]
+      }
+    ],
+    "dev_comment": "To view the april fools stuff, refer to the trello please",
+    "highlights": [
+      "Civil War expanded with new mercenaries and content",
+      "Major weapon and equipment overhaul including reworked grenades and new disposable anti-tank launchers"
+    ]
+  },
+  {
+    "version": "26.3.1",
+    "date": "2026-03-15",
+    "title": "The Unexpected QoL Update!",
+    "dev_comment": "I am on my supposed break, so let me just release a lil calm update on my SUPPOSED break\u2026",
+    "content": [
+      {
+        "header": "Medkits Overhaul",
+        "items": [
+          "The new system allows the medkits to be on its own slot, with a keybind attached",
+          "Upon healing, it will auto-equip the last weapon used (So you don't have to struggle on reequipping your weapons)",
+          "Medkits now accurately shows the cooldown bar and time",
+          "Also has an indicator whether the healing effect is in place or not (the little [+] icon)",
+          {
+            "Specifically for melee players, but for general uses. There's a new option called Quick Heal": [
+              "This makes it so the keybind allows you to heal yourself INSTANTLY, without the need of pressing again to heal yourself",
+              "However, the trade-off is that you won't be able to heal OTHERS with the feature on."
+            ]
+          },
+          "Mobile players, you will need to double tap to either equip or insta-heal",
+          "Console players, you will need to press (Y, TRIANGLE) to insta-heal or equip. (If the intermission button is visible, it won't do nothing to avoid double Y usages)",
+          "Additionally for console players, you will automatically have insta-heal as the equip option is a little janky for console.",
+          "Those who wish to use wrench or ARE engineer gamers, on PC. The keybind will switch from E to R (YES i know R is for reload but it gets overridden so don't worry...). To avoid accidentally equipping the medkit/healing."
+        ]
+      },
+      {
+        "header": "Undead Site Contract",
+        "items": [
+          "Added a new role: THE FLAG BEARER/CAPTAIN (Totally not to advertise the UGC item). This does nothing but gives a singular person the flag to roleplay as the captain or something. Basically u have more aura",
+          "Accommodated the ultrakit to the new medkit system",
+          "Frog Squads have a circle marker above them to easily locate them (Only visible for those in the squad)",
+          "(IMPORTANT) Fixed a bug where the first squad member to escape would receive all rewards, and the remaining members still inside the sewers OR outside of the sewers would be force-kicked despite being alive and in the process of escaping. This also caused the game to progress immediately after the first escape rather than waiting for everyone. This is now fixed",
+          {
+            "Wave 8": [
+              "New dialogues to make it clearer to NOT kill the super jugg"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Wave 9 Adjustments",
+        "items": [
+          "Zath now has a chance to spawn Hazmite and Impalers for his mercenary.",
+          "When you kill Vin, Zath's crashout sequence has been adjusted for Impossible mode. He will now spawn an additional 6 more bombers and hazmites and an extra screaming eagle",
+          {
+            "Hazmites has been adjusted": [
+              "Their mist now gradually increases BUT lasts longer",
+              "In impossible, their mist now lasts slightly longer AND increases in size faster",
+              "They still prioritize players BUT will be smart by targeting players who haven't been already targeted by Hazmites."
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Mutual Greed",
+        "items": [
+          "Fixed Mutual Greed giving the wrong value (+6% enemy HP instead of 9% enemy HP), Mutual Greed now gives +9% Wave Income instead of +3%"
+        ]
+      },
+      {
+        "header": "Adjustments",
+        "items": [
+          {
+            "Altered Bomber's core rush timer variance": [
+              "Higher minimum time, lower maximum time",
+              "Removed Bombers having a 50% chance to rush the core anyways even after the timer expired, as it made them freak out and swap targets rapidly"
+            ]
+          },
+          "Reduced regular detection range. (2500 -> 250)",
+          "Removed Headshot DMG handicaps on IMPOSSIBLE+, CW (HARD)+, DIV (HARD)+ (Handicaps against bosses still exist)",
+          "Removed target predictions for Zombie Combat Cars (ZCC)"
+        ]
+      },
+      {
+        "header": "Fixes",
+        "items": [
+          "Removed the queue system entirely for the achievement loading. The cache itself is already efficient and fast and the queue system has done nothing but cause issues by killing servers with infinite loading badges so it has been removed until further notice (most likely gone forever)",
+          "Yes, this is the reason why your badges never load. Which thankfully is deprecated now.",
+          {
+            "Fixed General Zath personally using his marked target (the one he uses to order his infantry) instead of his regular target": [
+              "This is what made him hard lock onto Jorg and Sky Terror"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "version": "26.3.0",
+    "date": "2026-02-27",
+    "title": "The John Update",
+    "content": [
+      {
+        "header": "New Content & Features:",
+        "items": [
+          {
+            "NEW CONTRACT: UNDEAD SITE": [
+              "Difficulty: Extreme",
+              "Total Objectives: 4",
+              "XP: 10,000 | 1,000 Tokens",
+              "Additional information: Contracts will now rotate every half-week!",
+              "Contracts are now replayable and will give additional tokens even if you have the badge. (This also applies to Vale contract too!)",
+              "Tokens: 1000 \u2192 100",
+              "XP: 10000 \u2192 5000",
+              "NEW MENU:",
+              "New Server Browser",
+              "New server code to ensure that no newbs can enter your game",
+              "The level requirement is now capped based on your levels",
+              "Categories for servers to help fill your need",
+              "Custom server names (Don\u2019t be naughty..)",
+              "Expanded Reserve Servers",
+              "THREE NEW BADGES!"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "General Adjustments",
+        "items": [
+          "Decreased Kyths RPG reload time by 25%",
+          "Increased allied Cypher scaling",
+          "Decreased Vindictahn's phase 2 speed by 10% (15% on easier difficulties)",
+          "Decreased Chaos Brutalist's top speed but he'll stay there a bit longer",
+          "Imperial Accolade now requires Infantry tier 5 to hire",
+          "Cypher now has more stats on Bri'ish and is supposed to serve as the first 'final boss' for this difficulty. Emigna's  duelist will work less effectively on Bri'ish Cypher",
+          "Super Jugg and Joe will be a bit stronger on DIV IMP and by proxy Bri'ish",
+          "Re-enabled Impossible stats fully for Dark Practicioner",
+          "Increased non-boss enemy HP scaling back to 15% (previously 10%). This amount is of course affected by difficulty. The reason for this change is because normal enemies don't get the same scaling that bosses do (more dmg)"
+        ]
+      },
+      {
+        "header": "Weapons Adjustments",
+        "items": [
+          "Greatly reduced MK19 AGL's recoil and increased its Blast Radius to 80 to match the CK1",
+          {
+            "Mk19 AGL:": [
+              "Mag Size: 18 \u2192 36"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Melee Adjustments",
+        "items": [
+          "Reworked Static HP into Armour HP and Melee/Ranged weapons' Health Boosts will now be affected by Armour and HP modifiers. Rebalanced the weapons' HP and DMG values to reflect this new change. (Less HP but mid to late game melee weapons get more DPS)",
+          "The Feuersturm and Dezimator have received damage profile adjustments to bring their actual performance in line with their intended Shop Display DPS. Previously, both weapons were overperforming by approximately 30% due to legacy calculation errors between attack speed and damage multipliers.",
+          "Feuersturm: Reduced attack damage to 2,200 to accurately reflect the 2,200 DPS target (previously ~2,900 effective DPS)",
+          "Dezimator: Adjusted base damage (6,900 \u2192 5,150) to align with the 5,500 DPS target (previously ~7,400 effective DPS)",
+          {
+            "Golden Katana:": [
+              "GK damage now ALSO based on your wave participation instead of strictly on wave count",
+              "Rebalanced GK maintenance due to the new maintenance change (less early game and more late game)",
+              "New GK failure message"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Armor Adjustments",
+        "items": [
+          {
+            "Legion XIII Grenadier:": [
+              "-50% Weight Penalty",
+              "The bonus for staying 250 studs away from ANY enemy is reduced from +25% to +15%"
+            ]
+          },
+          {
+            "Pooperii Actuator Motor:": [
+              "Price: 1500 \u2192 2500",
+              "Stamina: -1 \u2192 -3",
+              "Now gives a weight penalty reduction of -25%"
+            ]
+          },
+          "Weight: 60 \u2192 ??"
+        ]
+      },
+      {
+        "header": "Hero Adjustments",
+        "items": [
+          "Made it so certain heroes don't have a heart attack/mechanical failure upon upgrading their HP",
+          "Adjusted Jamie Kataphractoi Legs:",
+          "+100 WalkSpeed -> +100% Movement Speed"
+        ]
+      },
+      {
+        "header": "Bug Fixes",
+        "items": [
+          "Fixed deluge custom",
+          "Fixed Zath's summoned vehicles being capturable",
+          "Fixed infantry landmines",
+          "Fixed Ballad not making Tanks slightly aggressive",
+          "Fixed not walking for 3 seconds after respawning",
+          "Attempted to fix Chaos Brutalist dragging me to hell in a downward spiral"
+        ]
+      }
+    ],
+    "dev_comment": "After months and months of working on this damn contract. I\u2019ve been working on this contract continuously to ensure it was better than vale; eventually, it became something different, and honestly. This is one of the best passion projects I ever worked on. Other than that, Its finally here. It\u2019s finally time."
+  },
+  {
+    "version": "26.2.0",
+    "date": "2026-01-30",
+    "title": "The Battaglia Update",
+    "content": [
+      {
+        "header": "New Content & Features:",
+        "items": [
+          {
+            "New Weapons!": [
+              "Skorpion (FREE)",
+              "Mosin Nagant (FREE)",
+              "Scoped Mosin Nagant (Triumphant Will badge)",
+              "Skoutatoi (FREE)",
+              "Power Fist (FREE)",
+              "Pow-Wow 5000 (1,000 Tokens)",
+              "Xiphos (1000 Tokens)",
+              "Adriani (750 Tokens)",
+              "Akritai (REPLACES Lightsaber)",
+              "Longsword (500 Tokens)",
+              "Minipulser Mk3 (1000 Tokens)"
+            ]
+          },
+          "5 NEW ARMOR ATTACHMENTS in additon to the Constant Shield Mk. 1. Purchase a high-grade armor to see the new attachments.",
+          "NEW WIP MAP: Border Outpost.",
+          "New plushies. Yes."
+        ]
+      },
+      {
+        "header": "Quality of Life",
+        "items": [
+          "Melee Soft Rework: Rebalanced all Melee to curve down on damage slightly, more noticeable by mid-late game weapons Greatly increased the Extra HP granted by Melee Greatly increased the extra Regen granted by Melee Reduced MF\u2019s regen from 200% to 150% (this has a side effect of MF dropping slightly slower) Max MF now affected by Regen modifiers stacking, or having a low Weapon Price/Armor Price ratio (start incurring penalty at <35%) Speed Boost standardized for Melee",
+          "EASY MODE now grant 50% more coins",
+          "CW/DIV IMP, BRITISH will now grant 20% more tokens",
+          "The Token Bonus for not losing lives now increased based on difficulty, up to x2 on IMP",
+          "You will pay maintenance tax for anything used most oftenly in the wave. Swapping it out no longer avoids this tax. Removed the tax for selling mid-wave.",
+          "Interest will now only occur after all expenses have been paid",
+          "Increased TAX FREE Maintenance after Wave 5 from 300 \u2192 500 (up to 2500 on Wave 10 instead of 1500)",
+          "Minor changes to several augments, increased max weight for certain red augments",
+          "New BADGE CACHE system which loads game data much faster",
+          "Tweaked AI to not follow Ranged/Engineer players and other behaviors",
+          "Other AI tweaks",
+          "Champion (CW Boss) now drops more coins",
+          "Participation is now SLIGHTLY harder to get",
+          "RDF AI now moves back if there are no targets instead of being target practice in the middle of the map",
+          "Rebalanced Sergeant Alesia",
+          "Tweaked Divergence bosses slightly",
+          "Nerfed Tiberius and Legion XIV for causing too much emotional damage",
+          "Melee Specialist, Veteran, Champion redesigned"
+        ]
+      },
+      {
+        "header": "Hero Adjustments",
+        "items": [
+          "Jamie now has Thundering Advance with Kataphractoi Legs and has damage resistance while attacking"
+        ]
+      },
+      {
+        "header": "Weapon Adjustments",
+        "items": [
+          "Increased DMG of PTRS-41, Solothurn S-18, Anzio 20mm",
+          "All Small Arms now have 2 extra mags, Heavy Arms now have 1 extra mag",
+          "Milkor MGL nerfed: 180 \u2192 160 RPM",
+          "XM-12, XM-22 now have a shield which boost HP",
+          "CC10, CK1 now boost HP",
+          "CK1 nerfed: 2600 \u2192 2300 DMG"
+        ]
+      },
+      {
+        "header": "Armor Adjustments",
+        "items": [
+          "All mid-late game Armor sets now increase Ranged and Engineer Damage",
+          {
+            "Totenkopf Armor buffed": [
+              "Price: 14,000 \u2192 13,000"
+            ]
+          },
+          "Reduced Regen dropoff for Totenkopf and Acknee, resulting in a 8% increase for the former and 18% for the latter"
+        ]
+      },
+      {
+        "header": "Engineer Adjustments",
+        "items": [
+          {
+            "Engineer ammo crates buffed": [
+              "Tier 1",
+              "Tier 2 (Path 1)",
+              "Tier 2 (Path 2)"
+            ]
+          },
+          "Buffed landmines"
+        ]
+      },
+      {
+        "header": "Bug Fixes:",
+        "items": [
+          "Fixed Air Hunters breaking the laws of thermodynamics and staying in the air forever",
+          "Fixed certain enemies shooting 3x slower than intended and nerfed their DMG to compensate for the fix",
+          "Fixed Headshots doing 3x DMG instead of 2x",
+          "Fixed Legion XIII Armor not working properly",
+          "Other fixes not mentioned here"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "26.1.0",
+    "date": "2026-01-16",
+    "title": "The Alexios Update: Part Two",
+    "content": [
+      {
+        "header": "New Content & Features",
+        "items": [
+          "Due to the recent Roblox update disabling the communication for most players on Roblox. Pings are now available to everyone without the need of augments. Eventually we plan to add a feature to further enhance the communication!",
+          "NEW AUGMENT FEATURES!  Eye augments will now include aim-assist, which is available for all devices!",
+          {
+            "New Weapons! (All unlockable through tokens!))": [
+              "M79 (500 Tokens)",
+              "Milkor MGL (1,000 Tokens)",
+              "CK1 (2,000 Tokens)",
+              "MK19 AGL (2,000 Tokens)"
+            ]
+          },
+          {
+            "A new section has opened in the token shop\u2026 Foreign Firepower!!": [
+              "PSMG56 (2,000 Tokens)"
+            ]
+          },
+          {
+            "Furthermore.. NEW ARMOR!": [
+              "Pooperii Combat Gear (2,000 Tokens)",
+              "Azhknean Survialist (750 Tokens)",
+              "Champion Armour",
+              "Recon Armour",
+              "Heavy Recon Armour",
+              "Heavy Recon Officer"
+            ]
+          },
+          "New Mode\u2026 CLASSIC BRI\u2019ISH!! FACE YOUR FEARS!",
+          "Christmas decorations has been removed, and Classic has been restored."
+        ]
+      },
+      {
+        "header": "Quality of Life",
+        "items": [
+          {
+            "Deluge portraits has been completely been overhauled and updated!": [
+              "Additionally\u2026 Cypher, Dark Prac, Vin, and General Zath model have been updated!"
+            ]
+          },
+          "General Zath AI has been touched up!",
+          "New dialogues for Deluge!",
+          {
+            "Revamped the animations to the weapons, with additional QoL touch-ups!": [
+              "Revamped Animations",
+              "You can now aim in third person",
+              "Weapons has new idle animations"
+            ]
+          },
+          "The menu has been redesigned visually, with a new slideshow and scenery to look at!",
+          "Armour has been retouched, making them cooler, with updated icons!",
+          "Added Shift lock support for console with the right Dpad button."
+        ]
+      },
+      {
+        "header": "General Adjustments",
+        "items": [
+          "Adjusted Zath's gas attack",
+          "Maus now has 100k less base HP on Hard and below",
+          "Zath now starts with 250k base HP instead of 120k, 350k if on Impossible",
+          "Allied Ranged NPCs now have a chance to spawn as a Field Maintenance",
+          "Certain UI texts have been updated to clarify specifically Ranged/Melee damage"
+        ]
+      },
+      {
+        "header": "Hero Adjustments",
+        "items": [
+          "Jorg now heavily prioritises enemy Screaming Eagles and Falcons",
+          {
+            "Emigna's Duelist buffed": [
+              "Price: 3000 -> 2000"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Weapon Adjustments",
+        "items": [
+          "Grenadier Armour now increases All Splash Damage by 30%",
+          "Increased all player projectile speed by 20%",
+          {
+            "Dual FN Five-seveN [BUFFED]:": [
+              "Accuracy: 60% -> 70%"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Armor Adjustments",
+        "items": [
+          "Legion XII armor now costs tokens",
+          {
+            "Legion XII Armor rebalanced": [
+              "HP Boost: x40 -> x38",
+              "Bonus: +25%",
+              "Mag & Ammo",
+              "Weight: 90 -> 140"
+            ]
+          },
+          {
+            "Legion XIV Armor nerfed": [
+              "Now grants 5% less NPC stats than before"
+            ]
+          },
+          {
+            "Totenkopf Armor rebalanced": [
+              "Price: 13000 -> 14000",
+              "Bonus: +5% Crit Chance"
+            ]
+          },
+          {
+            "Armor of Acknee nerfed": [
+              "Price: 16660 -> 17770",
+              "Grants 5% less NPC stats than before"
+            ]
+          },
+          {
+            "Grenadier Armor buffed": [
+              "Price: 9000 -> 8000",
+              "Increases All Splash Damage by 30%"
+            ]
+          },
+          {
+            "Wheelchair's nerfed:": [
+              "Stamina Usage: 40% -> 80%"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Engineer Adjustments",
+        "items": [
+          {
+            "Engineer ammo crates buffed": [
+              "Tier 1",
+              "Tier 2 (Path 1)",
+              "Tier 2 (Path 2)"
+            ]
+          },
+          "Buffed landmines"
+        ]
+      },
+      {
+        "header": "Bug Fixes",
+        "items": [
+          "Fixed singleplayer servers turning Multiplayer as soon as the main participating player does something instead of it being triggered by newly joined players doing something",
+          "Previously fixed an issue where the contract doesn't fail properly, it will now fail",
+          "More on trello..."
+        ]
+      }
+    ],
+    "dev_comment": "DISCLAIMER: Undead Site contract which was promised for this update will have to be delayed! We are doing our best to polish the contract but to ensure that you can enjoy the other new content we've prepared, Alexios Pt. 2 will be released, and the contract be pushed back onto a future update."
+  },
+  {
+    "version": "25.4.0",
+    "date": "2025-12-12",
+    "title": "The Alexios Update: Part One",
+    "content": [
+      {
+        "header": "New Content & Features",
+        "items": [
+          "Mr. Jones has returned! However, during his break he was too busy enjoying the Fipher Island and forgot to make the plan for Undead Site. Undead Site Contract is set for Part Two.",
+          {
+            "Engineer has been redesigned with a new UI.": [
+              "A redesigned wrench menu has been added.",
+              "Multiple engineer adjustments have been made."
+            ]
+          },
+          {
+            "Settings has a new UI layout with additional gameplay features to well\u2026 enhance your preferences!": [
+              "No Starter Weapons (Money Refunded)",
+              "Joe\u2019s flashbang inversion (black instead of white)",
+              "Hide Allies highlight (This is for All Seeing Augment)"
+            ]
+          },
+          {
+            "Achievement display has been completely overhauled!": [
+              "New statistic section, to flex your career stats, and the achievement display has themes that matches your badge color!",
+              "New, updated, and enhanced achievement sections with filters for completed and locked achievements."
+            ]
+          },
+          {
+            "Jamie has retired, and is now kinda homeless! Mercenaries has been overhauled, Internally and externally!": [
+              "New Hero Upgrades and Level Up Systems to enhance your playstyles",
+              "RDF has been redesigned to look more cooler",
+              "Mercenaries tab is now on left side of the menu, unlocking around wave 1",
+              "Investments gained from mercenaries is now private (only you will benefit from it)"
+            ]
+          },
+          "Lots, and I mean\u2026 LOTS of new Badges!"
+        ]
+      },
+      {
+        "header": "General Adjustments",
+        "items": []
+      },
+      {
+        "header": "Engineer Adjustments",
+        "items": [
+          "The in game Praedictus' actual DPS was incorrectly inputted at 34,600, not 15,000. (Please do note it has a reload of 12s, and it can pierce).",
+          "Sentry destruction now counts towards loss of March of the Eagle stacks",
+          "Sentry DMG (modifier) now no longer scales multiplicatively with perks modifiers but rather will scale additively.",
+          "Landmines now use sentry dmg formula (which will now benefit from perks)",
+          {
+            "Base Supply per Hit buffed:": [
+              "15 -> 20"
+            ]
+          },
+          {
+            "Max Supplies upgrades:": [
+              "Price (total): 5500 -> 4000"
+            ]
+          },
+          {
+            "Supply per Hit upgrades:": [
+              "Price (total): 7250 -> 5250"
+            ]
+          },
+          {
+            "Max Supplies upgrades:": [
+              "Price (total): 5500 -> 4000"
+            ]
+          },
+          {
+            "Supply per Hit upgrades:": [
+              "Price (total): 7250 -> 5250"
+            ]
+          },
+          {
+            "Max Building Supply upgrades:": [
+              "Price (total): 4250 -> 3500"
+            ]
+          },
+          {
+            "Sentry Supply Efficiency upgrades:": [
+              "Price (total): 5750 -> 3500"
+            ]
+          },
+          {
+            "Praedictus buffed:": [
+              "Price: 15,000 -> 10,000",
+              "Maintenance: 6000 -> 3500",
+              "Supply Per Shot: 750 -> 1500"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Weapon Adjustments",
+        "items": [
+          "Grenades now use sentry dmg formula (which will now benefit from perks)",
+          "Removed equip time entirely for all weapons.",
+          "Added Cost effectiveness stat to guns (Price/DPS) to show relative value when comparing pure damage output.",
+          {
+            "CC10 buffed:": [
+              "Max Range: 1600 \u2192  2000"
+            ]
+          },
+          {
+            "Dual Fn Five SeveN buffed:": [
+              "Accuracy: 50% \u2192  60%"
+            ]
+          },
+          {
+            "HS-21 buffed:": [
+              "DMG: 55 \u2192  60"
+            ]
+          },
+          {
+            "XM-12 buffed:": [
+              "Maintenance: 950 -> 750"
+            ]
+          },
+          {
+            "XM-22 buffed:": [
+              "Price: 6900 -> 6400",
+              "Maintenance: 1050 -> 960"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Perk Adjustments",
+        "items": [
+          "Divided Support Perks into the new Endurance Perks group",
+          "Private Contractor moved back to Support Perks",
+          "Glass Cannon now provides +3% total crit chance"
+        ]
+      },
+      {
+        "header": "Enemies Adjustments:",
+        "items": [
+          "Buffed International Fighter",
+          "Buffed Pooperi Mercenaries"
+        ]
+      },
+      {
+        "header": "Titan Turrets Adjustments:",
+        "items": [
+          "Fixed Titan Turrets\u2019 damage display which was incorrectly multiplied by the Titan Turrets effectiveness modifier (it already applies on RPM)",
+          "This means the visual display was incorrect, however the actual DPS is still the same no matter what."
+        ]
+      },
+      {
+        "header": "Bug Fixes",
+        "items": [
+          "Dark Pract will now spawn in Horde modes",
+          "Fixed a couple building errors in the spawn lobby",
+          "Fixed a bug that caused all personally hired mercs to unilaterally commit suicide upon the departure of their contractor",
+          "Fixed Allied Feuerregen Champion dealing the same damage as the first one (should\u2019ve been 2x)",
+          "Fixed Charged Dark Practitioner not receiving damage from Golembeast.",
+          "Potential fix for recent data loss",
+          "Fixed Pooperi Mercenary shotgunner",
+          "Fixed the intermission popping mid-wave, and breaking the game at times",
+          "Fixed achievements displaying achievements that would be unobtainable to ensure your 100% is always possible",
+          "Fixed engineer equipment not being liquidated when a player leaves and doesn't come back"
+        ]
+      }
+    ],
+    "dev_comment": "After the long hiatus, the team of TZR has come together to release not release one huge update, but split it into two! Be prepared to be blasted with new content!"
+  },
+  {
+    "version": "25.3.1",
+    "date": "2025-10-28",
+    "title": "The Two Hurrahs Update",
+    "content": [
+      {
+        "header": "New Content & Features",
+        "items": [
+          {
+            "New Armors:": [
+              "Legion XIV Armor",
+              "Legion XIII Armor"
+            ]
+          },
+          {
+            "New Features:": [
+              "UI has been redsigned!",
+              "Added a \u201creverse vote\u201d button to the skip intermission (only works in multiplayer servers)"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Adjustments",
+        "items": [
+          {
+            "Sentries now priorities targeting the owner's marked target (using eye augments) if valid.": [
+              "Applies to hired Infantry and Tank, along with any Infantry units with a player as their squad leader"
+            ]
+          },
+          "Reverted Player Regen buff"
+        ]
+      },
+      {
+        "header": "NPC Adjustments",
+        "items": [
+          {
+            "Helicopters:": [
+              "Greatly increased the range at which you can tp to available Albatrosses"
+            ]
+          },
+          {
+            "Tank:": [
+              "Reverted Tank DMG buff"
+            ]
+          },
+          {
+            "Infantry:": [
+              "Nerfed RDF's damage output,",
+              "Attica rebalanced: Spawns 3 recons instead of 2, HP: 25k -> 14k",
+              "Jorg can now teleport back up to his roof position if knocked off"
+            ]
+          },
+          "Hellas rebalanced: Spawns 3 Grenadiers instead of 2 Recons, HP: 25k -> 18k",
+          "All AOE damage by enemies now uses the damage module, which should proc undying"
+        ]
+      },
+      {
+        "header": "Weapon Adjustments",
+        "items": [
+          {
+            "Potassium Enforcer buffed:": [
+              "DMG: 1111 -> 1234",
+              "RPM: 85 -> 255",
+              "Mag: 4 -> 16"
+            ]
+          },
+          "Renamed TGK",
+          "All melee weapons/tools will swing automatically when held down"
+        ]
+      },
+      {
+        "header": "Armor Adjustments",
+        "items": [
+          "Wheelchair:",
+          "Discounts come 2 waves earlier, and total discounts increased from 1500 to 3000 (like marine armor)",
+          {
+            "Legion XII Phoenix:": [
+              "Price: 6600 -> 8000 Discounts come 1 wave earlier, and total discounts increased from 600 to 2000"
+            ]
+          },
+          {
+            "Standard Phoenix & Grenadier Armor:": [
+              "Price: 8000 -> 9000 Discounts come 1 wave earlier, and total discounts increased from 800 to 2000"
+            ]
+          },
+          {
+            "Totenkopf Armor:": [
+              "Price: 15000 -> 13000 Now has a discount of 1000 at wave 10"
+            ]
+          },
+          {
+            "Armor of Acknee:": [
+              "Price: 20000 -> 17770 Still no discounts Maintenance for Totenkopf and Acknee reduced by 30%"
+            ]
+          },
+          "Debellaturus (when used with the Armor of Acknee) now always provide an attack speed bonus of +33%. However, dropping below 50% MF will now instead reduce your base HP by 50.",
+          "Armor of Acknee, Totenkopf Armor, and Legion XIV now buff RDF and Titan Turrets damage when worn (stacks in MP)",
+          "Armor of Acknee's weight reduced to 150",
+          "Reduced the negative effect weight has on speed",
+          "Reduced sprinting speed of enemy ultratechs",
+          "Freshened up Classic a bit",
+          "Changes were done to these following maps, so they are all now similar size to Classic (Vale and Under Siege left unchanged):",
+          "Lazy Winter: Length shortened by 100 studs, width by 200; added background mountains behind center zombie spawn",
+          "Wargame: Length shortened by 100 studs, width by 200; added a prop on the right side to fill empty space; will be revisited for a full rework,",
+          "Ballad: Length shortened by 100 studs,",
+          "Undead Site: Length shortened by 100 studs, width by 200 (should help with the contract for the Alexios Update)"
+        ]
+      },
+      {
+        "header": "Bug Fixes:",
+        "items": [
+          "Rebuilt the voting system for the skip/start game from the ground up:",
+          "Fixed the bug preventing to skip",
+          "Fixed the bug preventing to skip in the console",
+          "Gate will now always take damage before the core",
+          "Under Siege and Vale intermission music will not be replaced anymore",
+          "Improved AI targeting of players",
+          "Certain miscellaneous stats that tracks your progress will be disabled until further notice to improve loading speed",
+          "Fixed stamina regen appearing to be 10x more than it actually is",
+          "Vale Carrier\u2019s will no longer glitch out of the map and become actual landing boats",
+          "Tanks will now actually show the captured text when they're captured, either from RNG or supplies",
+          "Tanks now play their death explosion/sound even when RNG captured",
+          "Potentially fixed double buying with tokens,",
+          "Fixed unlocks not refreshing unlock count properly,",
+          "Tanks will remove their physics on death, no longer having weird speed or rotation issues on death"
+        ]
+      }
+    ],
+    "dev_comment": "The TZR Team for the most part has been juggling between work and development on this game for nearly 2 months. For that reason, we unfortunately hadn't been able to put out any major content for this patch. However, the next 'major' update will include a new contract, a revisit of Civil War and Divergence balance and flavor, alongside new weapons, armor and potentially even fleshing out the RDF, Melee system and the Perk System! Though nothing said here is concrete, these are some of the things that have been planned, and we hope to pick up the pace for the final months of 2025! Until then, cheers!"
+  },
+  {
+    "version": "25.3.0",
+    "date": "2025-08-23",
+    "title": "Life Quality Update 03",
+    "content": [
+      {
+        "header": "Main:",
+        "items": [
+          "New Badge! (Hint: Objective 3, Vale Contract)",
+          "Custom Mode is back! It\u2019s only available in Private Servers, and only the server owner can use it.",
+          "You can now cancel your teleportation!",
+          "Piper-96 is now renamed as the Sten Gunand the requirement is acquiring Evil Vanquished!",
+          "Intermissions In Solo are now Infinite",
+          "Changed wave 8 Divergence theme (3rd time now)",
+          "The balcony teleporter that leads you to the spawn is now colored green. The core room teleporters that bring you to the balcony are red. The ones that take you outside remain blue. This change should hopefully distinguish them better for new players.",
+          "Training Paratroopers has been nerfed due to insane stats on Wave 1, also renamed slightly.",
+          "For Vale Contract, the blueprints locations has been repositioned closer to the base to make your life easier",
+          "Under Siege Map has been slightly altered to suite the second balcony",
+          "In Vale Divergence Impossible, the number of Wave 1 Bombers has been reduced, and they now spawn at a slower rate.",
+          "Transhumanist gives -21% maintenance reduction instead of -15%"
+        ]
+      },
+      {
+        "header": "Bug Fixes",
+        "items": [
+          {
+            "Mobile": [
+              "Night Vision breaking after a core life",
+              "Fixed Shift Lock breaking upon death",
+              "Fixed the scaling issue with mobile even more"
+            ]
+          },
+          {
+            "Console": [
+              "Resolved a bug causing the AK and Sniper crosshairs to disappear.",
+              "Attempted to fix the skip intermission not working for console",
+              "Closing the Weapon Shop is now easier by pressing B."
+            ]
+          },
+          {
+            "General": [
+              "Fixed the Inventory Bug, it is gone.",
+              "Medkit Cooldown UI is now visible",
+              "Contract Completion Animation now says a quote instead of numbers (THE NUMBERS MASON, WHAT DO THEY MEAN!)",
+              "Fixed Scrap Metal disappearing when dying in Vale",
+              "Warships no longer shoot during intermissions in Vale",
+              "You can no longer glitch inside the Vale Tunnel",
+              "Vale Cannon has been repositioned",
+              "Fixed text disappearing in Melee section of the shop",
+              "Shop, Upgrades, and Merc UI will no longer block the Token UI.",
+              "Badge Displays is now properly displayed",
+              "Vale Imp Intermission uses the Vale Revenge Version instead of the traditional",
+              "Vale Wave 7 uses the inclusive music instead of the regular music",
+              "Fixed an issue regarding Screaming Eagles being too far during flooding in Vale",
+              "Rampage will accurately lock to Bewegungskrieg instead of Indomitable Spirit",
+              "Fixed Perk Highlights being yellow after refunding",
+              "Training Paratroopers have been nerfed",
+              "Fixed certain parts not recoloring on the \"Sentinel\" tank",
+              "CW non-veteran lions and deshuller 9s have changed to \"Default\" and \"Aggressive\" AIs respectively",
+              "Fixed mages targetting sandbags",
+              "Fixed Deshuller MK 6 being named MK 4",
+              "Fixed scraps not activating on certain helicopters",
+              "Fixed tripping unequipping weapons",
+              "Fixed augment shop opening early",
+              "Doubled healing output with the wrench",
+              "Fixed base max supplies not being 100",
+              "Fixed Early Exosuit stats are wrong visually",
+              "Fixed Leg augmentation not following the same format as all the other ones in regards to melee damage",
+              "Fixed Champion holding his hammer upside down"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "version": "25.2.1",
+    "date": "2025-08-10",
+    "title": "Melee Update",
+    "content": [
+      {
+        "header": "New Content & Features",
+        "items": [
+          "Added ??? to the Pop Culture section of the Token Shop"
+        ]
+      },
+      {
+        "header": "General Adjustments",
+        "items": [
+          "Player HP Regen increased by 10%",
+          "Revised LVL Recommendations and revised badge requirements for certain difficulties",
+          "Nerfed Blade Dancer, Imperator, Guard, Kataphractoi, and Immortal speed on CW (Hard); old speed moved to CW (IMP)",
+          "Adjusted enemy Ultratech Invictus (will strafe less)"
+        ]
+      },
+      {
+        "header": "Tank Adjustments",
+        "items": [
+          "Jaguar (Merc) size reduced from 4 to 3",
+          "Jaguar attack speed increased by 100%",
+          "Tank 4 price increased to 5000",
+          "Tank 5 price reduced to 6000",
+          "Tank 5 now also increases infantry stats by an additional 5%",
+          "Fixed Jaguars not having proper target prioritizations",
+          "Doubled Jaguar range",
+          "Battle Wagons and Tractor Hunters will try to upgrade into Lynxes if possible (Mercs cannot)",
+          "Lynxes will try to upgrade into Lions",
+          "Eagle Hunters will try to upgrade into Jaguars"
+        ]
+      },
+      {
+        "header": "Bug Fixes",
+        "items": [
+          "Fixed Reworked Tanks being completely unaffected my speed modifiers"
+        ]
+      }
+    ],
+    "dev_comment": "Hi people, small update today until we start working on the next one. I didn't expect to release one today but a bug forced my hands."
+  },
+  {
+    "version": "25.2.0",
+    "date": "2025-07-12",
+    "title": "The Marius Update",
+    "content": [
+      {
+        "header": "New Content & Features:",
+        "items": [
+          "Tokens has arrived! Depricating the useless gamepasses"
+        ]
+      },
+      {
+        "header": "General Adjustments",
+        "items": [
+          "Adjusted range of ALL weapons. Damage dropoff is now more forgiving, but the dropoff point begins slightly earlier.",
+          "Damage for certain weapons have also been adjusted to fit this new reality",
+          "Late-game sentries now have less range",
+          "Cost of Dezimator, Debellaturus, XM Ignis decreased",
+          "Cost of Totenkopf Armor increased",
+          "Debellaturus's attack speed increase is now 25% when using Armor of Acknee (The DPS is also properly increased instead of being purely visual)",
+          "Player scaling buff reverted",
+          {
+            "Economy Adjustments:": [
+              "Increased certain early game weapons' cost",
+              "Increased wave 1-4, wave 7-8 Wave Rewards",
+              "Reduced Investments scaling",
+              "There are many other changes that went missing! Sorry!"
+            ]
+          },
+          {
+            "Console / Mobile:": [
+              "Console users can now reload by pressing X (left button) when not interacting with something.",
+              "Mobile and Console fix coming soon."
+            ]
+          }
+        ]
+      },
+      {
+        "header": "AI Adjustments",
+        "items": [
+          "AI is now more likely to prioritize targets."
+        ]
+      },
+      {
+        "header": "UI Adjustments",
+        "items": [
+          "Adjusted the location of a few top-right menu buttons.",
+          "Added text to explain how to use voice chat (press V).",
+          "Version text will no longer break."
+        ]
+      },
+      {
+        "header": "Base Systems / Modular Systems",
+        "items": [
+          "Modular Tank System:",
+          "Tanks no longer have pathfinding functionality (major rework).",
+          "RDF Tanks will now teleport to the gate when spawning.",
+          "Destroyer variants now have +10 max speed.",
+          "Increased vehicle despawn time to allow time for capturing.",
+          "Fixed tanks moving in circles due to targeting/pathfinding issues.",
+          "Fixed fire/smoke direction on some tanks.",
+          "Fixed rocket tractor shooting sideways.",
+          "Fixed certain patches on tanks appearing white.",
+          {
+            "Fixed hitbox of Imperial Tractor.": [
+              "Fixed reworked tanks not getting captured passively.",
+              "Friendly versions of \"Aggressive\" AI tanks will now keep their distance but move around more (currently unused)."
+            ]
+          },
+          {
+            "Modular Sentry System / Other Modular Buildings:": [
+              "Minigun sentries continue firing even if the last target dies.",
+              "T3/T4 sandbags now reduce damage taken from all sources at half effectiveness.",
+              "Fixed wrench staying green when changing active building."
+            ]
+          },
+          {
+            "Targeting System:": [
+              "Updated targeting module for Sentries, Tanks, and certain RDF units to reduce lag.",
+              "AI now prioritizes targets more reliably."
+            ]
+          },
+          {
+            "Wave System:": [
+              "Wavescript failing now only restarts the wave. After 3 failures, the server will reset."
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Perk Adjustments",
+        "items": [
+          "Zombie Damage Module now applies to enemy rockets, ensuring consistent damage behavior.",
+          "Fixed tough nut and scraps perks showing incorrect values.",
+          "Emigna will no longer break revenge if bought before the Cypher fight.",
+          {
+            "Weapon/Ammo Changes:": [
+              "Reloading at an ammo box now requires just a press, no holding (wait time still applies).",
+              "Fixed reloading on controller.",
+              "Players accidentally joining no longer immediately invalidate a solo run unless they take an action that impacts the game.",
+              "Fixed being able to capture enemies while they're alive.",
+              "Fixed chatting unequipping weapons."
+            ]
+          },
+          {
+            "Movement / Teleport System:": [
+              "Teleport speed now caps at 10% health to prevent counter-breaking at super-low health values.",
+              "You can no longer spam the teleport button.",
+              "Units inside the core room will teleport out if the gate is alive.",
+              "Teleporting defaults to helicopter during intermission.",
+              "Teleporting to helicopters fixed."
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Sound / Audio Adjustments",
+        "items": [
+          "Jets now use proper soundgroups that can be adjusted via volume settings.",
+          "Increased voice chat (VC) volume."
+        ]
+      },
+      {
+        "header": "Data Management Updates",
+        "items": [
+          "Fixed server list.",
+          "Reliable data saving; will not lose data.",
+          "Fixed data loading reappearing when a game finishes."
+        ]
+      },
+      {
+        "header": "Bug Fixes & Other Adjustments",
+        "items": [
+          "Fixed scherz smoke flowing sideways.",
+          "Fixed losing coins when nobody has Bounty Hunter.",
+          "Repair keybind for PCs is now \"C\".",
+          "Zath gas will no longer kill through undying.",
+          "Fixed custom mode modifiers.",
+          "Removed contracts that weren\u2019t finished.",
+          "Optimized damage indicators (adjustable in settings in future updates).",
+          "Fixed mobile shift-lock.",
+          "Vale Contract has been fixed; players can now earn both the badge and the XP reward.",
+          "Custom Mode has been fixed.",
+          "Vale contract description has been slightly improved.",
+          "Vale canister objective has been slightly improved.",
+          "Vale now works in Endless mode; waves flood beyond wave 10.",
+          "Under Siege now works in Endless mode; thunderstorms continue beyond wave 10.",
+          "Fixed being able to capture enemies while they're alive.",
+          "Fixed wrench staying green when changing active building, confusing new players."
+        ]
+      }
+    ],
+    "dev_comment": "This is what you've been dreading for."
+  },
+  {
+    "version": "25.1.4",
+    "date": "2025-06-14",
+    "title": "The Isaurian Update",
+    "content": [
+      {
+        "header": "General Adjustments:",
+        "items": [
+          "Augment shop now unlocked on Wave 2 for Divergence",
+          "Increased CW coin gain",
+          "Adjusted DIV coin gain (Increased)",
+          "Improved Tiberius AI",
+          "Fixed Tiberius' EMP (Defeat Condition)",
+          "Added Divergence Zatrox\u2019s Defeat Condition",
+          "Cheaper Mercenaries",
+          "More aggressive enemy spawns on REVENGE (IMP) and CW (IMP)",
+          "Reduced HP of most bosses"
+        ]
+      },
+      {
+        "header": "Perk Adjustments",
+        "items": [
+          {
+            "Bewegunskrieg:": [
+              "DMG: 4.5% \u2192 3%",
+              "Sprint: +10% \u2192 20%"
+            ]
+          },
+          "Money is Power: Reworked",
+          "Bounty Hunter: Rebalanced",
+          "New Perk complimenting Bounty Hunter: Pariah",
+          "Removed Insurance"
+        ]
+      },
+      {
+        "header": "Base Upgrades",
+        "items": [
+          {
+            "RDF and Titan Turrets now have even more extra stats on:": [
+              "Revenge",
+              "Impossible",
+              "Bri\u2019ish",
+              "Civil War (HARD)",
+              "Civil War (IMPOSSIBLE)",
+              "Divergence (HARD)",
+              "Divergence (IMPOSSIBLE)"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Weapon Adjustments",
+        "items": [
+          "HS-40 Mangol: more range",
+          "Shak-50: more range",
+          "Potassium Enforcer: more damage"
+        ]
+      }
+    ],
+    "dev_comment": "As of May 5th, Huy legit became lazy and slopped this changelog up \ud83d\ude2d"
+  },
+  {
+    "version": "25.1.3",
+    "date": "2025-04-22",
+    "title": "Huy's Random Assortment of Things 02",
+    "content": [
+      {
+        "header": "UI",
+        "items": [
+          "Revamped Donation UI"
+        ]
+      },
+      {
+        "header": "General Adjustments",
+        "items": [
+          "Augment shop now unlocked on Wave 2 for Divergence",
+          "Reduced CW coin gain",
+          "Reduced DIV coin gain"
+        ]
+      },
+      {
+        "header": "Perk Adjustments",
+        "items": [
+          {
+            "Mutual Greed:": [
+              "Mutual Greed\u2019s coins and enemy HP modifiers now scales with difficulty, not linearly"
+            ]
+          },
+          {
+            "Combined Arms:": [
+              "HP Reduction: -3 -> -7.5",
+              "DMG (Self): 9% -> 6%",
+              "DMG (Additional): 4% -> 7.5%"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Titan Turret Adjustments",
+        "items": [
+          {
+            "Firepower:": [
+              "DMG: 325 \u2192 +450"
+            ]
+          },
+          {
+            "Range:": [
+              "DMG: 75 \u2192 +150"
+            ]
+          },
+          {
+            "RDF and Titan Turrets now have extra stats on:": [
+              "Revenge",
+              "Impossible",
+              "Bri\u2019ish",
+              "Civil War (HARD)",
+              "Civil War (IMPOSSIBLE)",
+              "Divergence (HARD)",
+              "Divergence (IMPOSSIBLE)"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Weapon Adjustments: Primary",
+        "items": [
+          "Optimized damage calculation for ranged weapons for better performance.",
+          {
+            "Annihilationator Mk. III (RDF Field Modification):": [
+              "Ammo: 70 -> 72",
+              "Removed 5 seconds DOT cooldown",
+              "Anni DOT now count towards the damage count"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Weapon Adjustments: Melee\u2019s",
+        "items": [
+          {
+            "Sword n Shield:": [
+              "Speed: 2 \u2192 6",
+              "HP: 300 \u2192 500"
+            ]
+          },
+          {
+            "Feuerkuss:": [
+              "HP: 0 \u2192 250"
+            ]
+          },
+          {
+            "Feuersturm:": [
+              "HP: 0 \u2192 1,500"
+            ]
+          },
+          {
+            "Bananas: [GAMEPASS]": [
+              "HP: 3000 \u2192  5000"
+            ]
+          },
+          {
+            "Lightsaber:": [
+              "HP: 0 \u2192 2500"
+            ]
+          },
+          "Zeushammer:",
+          "HP: 0 \u2192  3000",
+          {
+            "Feuerlanze:": [
+              "HP: 0 \u2192  3000"
+            ]
+          },
+          {
+            "Dark Saber: [GAMEPASS]": [
+              "HP: 0 \u2192 3500"
+            ]
+          },
+          {
+            "Dezimator:": [
+              "HP: 0 -> 4000"
+            ]
+          },
+          {
+            "Debellaturus:": [
+              "HP: 0 \u2192 3500"
+            ]
+          },
+          {
+            "XM Ignis:": [
+              "HP: 0 -> 3500",
+              "Ignis DOT now count towards the damage count"
+            ]
+          },
+          {
+            "Golden Katana:": [
+              "HP: -40% \u2192  -30%"
+            ]
+          },
+          {
+            "True Golden Katana:": [
+              "HP: -50% \u2192  -30%"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Console:",
+        "items": [
+          "XM Bellum and AA-12 has controller support",
+          "Fixed sprinting in Controller"
+        ]
+      },
+      {
+        "header": "Bug Fixes & Other Adjustments",
+        "items": [
+          "Optimized Combined Arms, should now properly work with augments.",
+          "Fixed XM Ignis\u2019 DOT",
+          "Fixed Ghost Augment Bug",
+          "All buildings no longer collide with anything, but can still be ran over",
+          "Cypher's ai updated to not look at every unit in storage (cypher lag reduced)",
+          "Dark practioner no longer teleports when transitioning",
+          "Added failsafe for Emigna AI",
+          "Emigna, Dark Champion now teleport back to the base",
+          "Fixed Player HP Scaling",
+          "Downscaled the bulky armor helmets",
+          "Touched up Grenadier helmet\u2019s color palette",
+          "Updated the 3 years old animate script and by proxy re-enabled emotes",
+          "Improved AI Explosive hit detection",
+          "Zombie Combat Car is now fixed",
+          "New CB changes",
+          "New Apprentice changes",
+          "New Zatrox\u2019s DPS changes",
+          "CB now uses new unused song",
+          "Fixed Headless Giant not attacking and breaking",
+          "Fixed the ships not providing coastal bombardment in Vale"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "25.1.2",
+    "date": "2025-04-12",
+    "title": "Huy's Random Assortment of Things 01",
+    "content": [
+      {
+        "header": "New Content & Features:",
+        "items": [
+          "New HP regen display",
+          "Air Hunters now have fuel"
+        ]
+      },
+      {
+        "header": "Hero Adjustments",
+        "items": [
+          "All heroes now provide a buff or can get buffed themselves.",
+          {
+            "Jorg:": [
+              "Falcons are called in twice as frequently to provide air support"
+            ]
+          },
+          {
+            "Dark Champion:": [
+              "Immune to toxic gas and provides all allies an immunity to toxic gas until he dies"
+            ]
+          },
+          {
+            "Lion Ace:": [
+              "Main Cannon gains 5% DPS per Infantry Upgrade"
+            ]
+          },
+          {
+            "Sky Terror:": [
+              "Gains 10% HP per Aviation Upgrade"
+            ]
+          },
+          {
+            "Emigna:": [
+              "Every ally NPCs on the map will increase her DMG by 2%"
+            ]
+          },
+          {
+            "Jamie:": [
+              "Players gain +25% HP Regen"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Primary Adjustments:",
+        "items": [
+          "NERFED TIER 6 SENTRIES",
+          "DPS (EACH): 2250 -> 1250",
+          {
+            "HS-21:": [
+              "DMG: 35 -> 41"
+            ]
+          },
+          {
+            "G36:": [
+              "Accuracy: 96% -> 100% (less recoil)"
+            ]
+          },
+          {
+            "M200 Intervention:": [
+              "DMG: 600 -> 1,300",
+              "RPM: 52 -> 30 (THE RPM IS NOT A NERF. The chambering time was not accounted for and thus the display was incorrect compared to its actual performance. Also damage buff as it was heavily underperforming.)"
+            ]
+          },
+          {
+            "AA-12:": [
+              "DMG: 300 -> 450"
+            ]
+          },
+          {
+            "M82:": [
+              "DMG: 1,500 -> 1,800"
+            ]
+          },
+          {
+            "HS-40 Mangonel:": [
+              "DMG: 3,000 -> 4,000",
+              "Accuracy: 90% -> 94%",
+              "Ammo: 3/21 -> 4/28",
+              "Reduced Recoil"
+            ]
+          },
+          {
+            "XM-Invictus:": [
+              "DMG: 650 -> 850",
+              "NOTE: Higher sustained DPS and higher downtime compared to the CC-10"
+            ]
+          },
+          {
+            "Potassium Enforcer:": [
+              "DMG: 2,222 -> 2,666"
+            ]
+          },
+          {
+            "ShAK-50:": [
+              "DMG: 430 -> 520",
+              "Accuracy: 92% -> 95%"
+            ]
+          },
+          {
+            "PP2000:": [
+              "Accuracy: 92% -> 93%",
+              "DMG: 330 -> 350"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Melee Adjustments:",
+        "items": [
+          "Increased attack speed of most melee weapons, their damage also decreased by the attack speed gained. This change is solely to increase the frequency of attacks for some weapons",
+          {
+            "Knife:": [
+              "DMG: 140 -> 170"
+            ]
+          },
+          {
+            "The Golden Katana:": [
+              "DPS: 6000 -> 7500"
+            ]
+          },
+          {
+            "Price Updates:": [
+              "Sword n Shield price: 800 -> 600",
+              "Feuerkuss price: 1500 -> 900",
+              "Feurregen price: 2000 -> 1200",
+              "Feuersturm price: 4000 -> 3000",
+              "Bananas price: 5000(?) -> 4000",
+              "Lightsaber price: 6500 -> 4500",
+              "Zeushammer price: 8000 -> 6000",
+              "Feuerlanze price: 9000 -> 6000",
+              "Dark Saber price: 10000 -> 7500",
+              "Dezimator price: 15000 -> 16500",
+              "Debellaturus price: 15000 -> 16500",
+              "Ignis price: 25000 -> 30000"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Perk Adjustments:",
+        "items": [
+          {
+            "Tough Nut:": [
+              "now caps out at 600 HP/s"
+            ]
+          },
+          {
+            "Combined Arms:": [
+              "DMG: +15% -> +9%",
+              "DMG (Additional): +5% -> 4%"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Titan Turret Adjustments:",
+        "items": [
+          "Titan Turrets no longer affects BOTH damage and rpm",
+          {
+            "Titan Turret rebalanced:": [
+              "No longer gets the free firepower upgrade",
+              "Firepower:",
+              "Price: 1500 -> 2500",
+              "DMG: +300 -> +325",
+              "Range:",
+              "DMG: +0 -> +75"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Other Adjustments",
+        "items": [
+          "**Maus now gives 4k from 2k**",
+          "**Zath now gives 8k from 5k**",
+          "Fixed Mercenaries giving 1.5% of what its displayed investment should be",
+          "Fixed Empire Servant challenges giving you a point in divergence and civil war",
+          "Fixed coins sharing full value without dividing its value between players, thus player count being a flat multiplier towards its value during intermission.",
+          "Fixed Constant Shield being black, however in cost. The data for the color shields has been reset.",
+          "Fixed UT Mubazirun not attacking",
+          "Life Steal/Absorb now display its healed amount",
+          "Undying should activate more accurately",
+          "Server list now properly shows newer gamemodes",
+          "All Seeing no longer erroneously shows health of specific NPCs",
+          {
+            "network ownership of tanks has been given a cooldown of 10 seconds per-player": [
+              "(tanks should overall pause less, and much less with a further change down the road)"
+            ]
+          },
+          "game loads considerably faster with less welding scripts on every single model",
+          "the pen sound no longer plays atrociously load every time you join a game",
+          "the keyboard and metal banging in the spawn is slightly quieter",
+          "Sky Terror now gains 2000 max hp per RDF air branch upgrade (will update live)",
+          "Retreat threshold increased to 66% from 55%",
+          "Sky Terror now requires Infantry upgrade 4 instead of aviation 4",
+          {
+            "Jorg price reduced now you can send him into slavery for 4k": [
+              "Jorg HP: 6000 -> 12000",
+              "Unlocks on Wave 2 instead of Wave 4"
+            ]
+          },
+          "Lion Ace now costs 8k",
+          "Titan Turrets Effectiveness no longer affects BOTH damage and rpm",
+          "Tiberius DMG player scaling nerfed to 15% as opposed to 25% (huge for big servers, probably negligible otherwise)",
+          "Dimitte, Emigna, Andriscus now have 30% more HP on CW IMP",
+          "Spartacus now has 30% more HP on DIV IMP",
+          "Fixed Mercenaries giving 1.5% of what its displayed investment should be",
+          "Military Funding now has diminishing returns and no longer operates on exponential scaling",
+          "Added a damage/kills display",
+          "Removed RDF Nerf, Coin Nerf from Bri\u2019ish",
+          "Coin hogging nerfed by reducing the share you get from directly collecting it."
+        ]
+      }
+    ]
+  },
+  {
+    "version": "25.1.1",
+    "date": "2025-04-01",
+    "title": "April Fools Update",
+    "content": [
+      {
+        "header": "NEW UPDATE TO TZR",
+        "items": [
+          "NEW MAP",
+          "NERFED UNDER SIEGE",
+          "NEW WEAPON: THE WOODEN KATANA",
+          "NEW CONTENT",
+          "UPDATED AND NEW DIALOGUE",
+          "NEW ENGINEER EQUIPMENTS"
+        ]
+      },
+      {
+        "header": "HOW TO ACTIVATE THE SURPRISING NEW CONTENT????",
+        "items": []
+      },
+      {
+        "header": "CLICK THE HARD WORKING SLOTH LOGO IN-GAME!!",
+        "items": [
+          "ONLY CLICKABLE BEFORE THE START OF THE GAME"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "25.1.0",
+    "date": "2025-03-22",
+    "title": "The Heraclian Update",
+    "content": [
+      {
+        "header": "New Content & Features:",
+        "items": [
+          {
+            "New Map: Vale": [
+              "New OST:",
+              "\u201cMy History Won\u2019t Be Rewritten\"",
+              "\"Spirit to Prevail\"",
+              "\"They Cannot Stop Us\"",
+              "\u201cThe Soul of Lukhea Still Rains\u201d",
+              "New Hazard Event:",
+              "\u201cChances of a flood event rising, leveling the area and forcing zombie spawns closer to the base.\u201d",
+              "New Enemy: Training Paratroopers",
+              "Supports: Revenge, Civil War, and Divergence!"
+            ]
+          },
+          {
+            "Return of the\u2026 Golden Katana!": [
+              "You\u2019re now able to purchase and receive the badge for the Golden Katana! (Don\u2019t you dare make us remove it again)"
+            ]
+          },
+          {
+            "Under Siege:": [
+              "Now Supports Divergence!",
+              "New OST:",
+              "\u201cDesired Vengeance\u201d"
+            ]
+          },
+          {
+            "New Feature: Contracts": [
+              "Complete Objectives to get a cool sequence around wave 10 and sum cool badges and EXP!",
+              "Only available through: Hard - Impossible (Brutal Modes and Endless modes are excluded and so is Custom Mode)",
+              "Available only in: Vale (More maps will be supported in the future!)"
+            ]
+          },
+          {
+            "New Feature: Challenges": [
+              "The Empire\u2019s Servant: Complete all seven maps in Impossible!"
+            ]
+          },
+          {
+            "New UI:": [
+              "Augmentation UI + Augments Rework",
+              "Contract UI",
+              "Challenges UI"
+            ]
+          },
+          {
+            "New Room: War Room": [
+              "Includes: Mr. Jones (Contractor), Jamie (Mercenary) and other NPCs!"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Huy Adjustments",
+        "items": [
+          "This is the part where I ruin lives and destroy homes.",
+          {
+            "All allied tanks start with 30% more HP and DMG.": [
+              "Eagle Hunters (on top of the above buffs) now deal 30% more DMG in general and 100% extra damage against aerial targets.",
+              "Eagle Hunters, Tractor Hunter, Battle Wagon, Lynx, Lion (on top of the above buffs) now start with more HP, ranging from 3000-5000 increase.",
+              "Lion Ace now starts with 10000 more HP (above buffs not included)"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Shop:",
+        "items": [
+          {
+            "Grenade:": [
+              "Throw a grenade at your enemies!"
+            ]
+          },
+          {
+            "Helmets:": [
+              "MOST armors will be supported with Helmets (Cosmetics only)"
+            ]
+          },
+          {
+            "Engineer Update:": [
+              "New Mines!",
+              "(Fixed mine placements)"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "UI",
+        "items": [
+          "Revamped Voting UI"
+        ]
+      },
+      {
+        "header": "Re-balances/Others:",
+        "items": [
+          {
+            "Dialogue:": [
+              "Switched Dialogue to Server Sided due to performance issues on the client side",
+              "Fixed a bug where Dialogue started creating many sounds, clogging the SoundService and making the game laggier",
+              "Improved Dialogue for: Revenge Storyline",
+              "Rewrote Vindictahn wave 10 speech",
+              "Rewrote parts of Divergence",
+              "Minor rewrites for Revenge (Base-game) dialogues"
+            ]
+          },
+          "AI: An issue with Cypher\u2019s AI has been fixed",
+          "Moved Mercenary into the War Room"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "24.6.0",
+    "date": "2024-12-21",
+    "title": "The Basileios Update",
+    "content": [
+      {
+        "header": "Main:",
+        "items": [
+          "Explore a new story, tempting the fate of the past..",
+          "Redesigned Achievements Frame- Visually fixed Turret's upgrade bar",
+          "New Dialogue System",
+          "Added a hide button for the voting system",
+          "New storyline voting system",
+          "ADDED 4 NEW DIFFICULTIES",
+          "ADDED 2 NEW WEAPONS & 1 ARMOUR",
+          "Completely revamped the main storyline: Revenge",
+          "Removed: Cash Starve",
+          "can no longer equip tools while seated",
+          "fixed chair breaking the entire shop for some reason",
+          "building related shop functions will no longer break the entire (client) shop!!!!!",
+          "albatross no longer spawns beneath the map",
+          "wrench hotkeys (i might add a hotkey list that shows what you can press, but that'll be for later)",
+          "Added a condition which hopefully prevents multiple sells of shop items",
+          "Fixed CW End Dialogues",
+          "Fixed Mercs' Investments",
+          "New Eco changes, Mid-Late game maintenance has been increased, there is now a new mechanic which reduces this maintenance later into the game",
+          "Added new decorations to the Lazy Winter map on the left & right sided"
+        ]
+      }
+    ],
+    "dev_comment": "After a rather long hiatus, the TZR Dev Team would like to present to you this update, with a whole new story akin to civil war to play with! Now it's been a rather busy month, so it's not as gargantuan as it could have been, but there's plenty to do!"
+  },
+  {
+    "version": "24.5.0",
+    "date": "2024-10-27",
+    "title": "The Theodosian Update",
+    "content": [
+      {
+        "header": "Boss Reworks",
+        "items": [
+          "Cypher",
+          "Joe",
+          "Dark Practicioner"
+        ]
+      },
+      {
+        "header": "New Weapons",
+        "items": [
+          "Added AA-12, an automatic shotgun chambered in the same rounds as the Benelli M4 but 5x the damage potential!",
+          "Added ShAK-50, fictional gun based on the Russian bullpup rifle ShAK-12, chambered in THE .50 cal, as opposed to the 12.7mm subsonic intermediary round.",
+          "Added M2A1 Browning**, famous American machine gun thats somehow handheld.",
+          "Added M7, based on the XM7, chambered in the 6.8mm for some damage on an infantry rifle!",
+          "Added M250, based on the XM250, similarly chambered in the 6.8cm, a supposed successor to the M249! [Locked behind Endsieg]"
+        ]
+      },
+      {
+        "header": "Rebalances",
+        "items": [
+          {
+            "M249 Rebalanced:": [
+              "Cost: $2700 \u2192 1600",
+              "DMG: 75 \u2192 41",
+              "Damage reduced to better reflect the 5.56mm NATO round.",
+              "M134 Existed"
+            ]
+          },
+          "Renamed M200",
+          {
+            "Intervention Buffed": [
+              "DMG: 375 \u2192 600",
+              "Removed the unique headshot bounce"
+            ]
+          },
+          {
+            "M82:": [
+              "DMG: 1200 \u2192 1500"
+            ]
+          },
+          "M72, RPG-7, Panzerfaust 3 equip time halved and is now affected by reload speed.",
+          "added respawn timer -Added new arms and leg augments",
+          "Walkspeed reduction from weight reworked",
+          "Buffed Tier 1 \u2192 4 Sentries, rebalanced T5 & T6",
+          "Reinstated Azura Award",
+          "vehicle triggers removed (you will get stuck more often in allied vehicles, but weird edge cases like flinging should no longer happen, this will be revisited later)",
+          "units that dont give xp now give xp",
+          "buildings no longer cause crippling lag to everything",
+          "crawlers no longer have hitbox above them",
+          "xm schiltron collison fixed",
+          "added an invisible roof above spawn to disable jets hitting spawn (U CANT STAND ON IT THO!!!!)",
+          "buildings display extended stats -golden tony no longer appears in solo",
+          "condor.... is fixed",
+          "Accurate data loading indicator, should be more obvious when stuff is not loading properly",
+          "increased hitbox size for lightsaber and darksaber",
+          "Slick now reduces weight penalty",
+          "fixed foresight not showing cypher with a cyan arrow",
+          "bosses and heroes are displayed differently on foresight"
+        ]
+      },
+      {
+        "header": "**New Badge:**",
+        "items": [
+          "\"Unwavering yet precise, just like the weapon that stands before you.\" // (A true challenge in plain sight?)"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "24.4.0",
+    "date": "2024-10-12",
+    "title": "The Doukas Update",
+    "content": [
+      {
+        "header": "New Contents & Features:",
+        "items": [
+          "Super Juggerinator has been reworked",
+          {
+            "New UI:": [
+              "Base Upgrades",
+              "Mercs",
+              "Feedback System",
+              "Teleportation System (not really a UI thing, but redoing the script)",
+              "Wrench Menu (although Miru did basically all of the finishing touches and scripting)",
+              "Revamped Inventory System"
+            ]
+          },
+          {
+            "Merc UI:": [
+              "Heros have a slower cooldown",
+              "New visual for hiring mercenaries",
+              "Sections are able to be closed with the arrows",
+              "Fixed the tanks breaking the Mercs or not spawning/working"
+            ]
+          },
+          {
+            "New Map: UNDER SIEGE": [
+              "New OST:",
+              "\"Protectors of the City\"",
+              "\"An Undying Wish\"",
+              "\"Storm Of Lukhea\"",
+              "New Hazard: Boosts/Charge Zombies whenever it's struck",
+              "New Enemy: Electrified Bomber + possibly more",
+              "Custom spawnpoints for \"Under Siege\"",
+              "1% of getting strike and actually gaining boost from lightning (one time only) + getting a badge from it",
+              "Chance of Electrobie spawning when an enemy dies and is charged, with a consistent 15% chance (for all modes) to spawn an Electrified Bomber"
+            ]
+          },
+          {
+            "Endless Mode:": [
+              "Added a cap limit for the zombie kill goal (100)",
+              "Added 30+ music tracks for Endless to prevent repetitiveness"
+            ]
+          },
+          {
+            "Engineer Rework - Part 1 of 2": [
+              "Entire engineer system has been migrated to a new system",
+              "Buildings now have a universal cooldown, along with their own cooldown, to prevent spamming",
+              "Sandbags and sentries now will break when an enemy tank rolls over it, to avoid potential cheese",
+              "Brand new wrench UI (very cool)",
+              "Repairing and capture indicators (less annoying now)",
+              "With this new system, you can now place buildings on tanks and eachother, allowing for a different playstyle",
+              "Tanks have been made easier to stand on to help with this (DO NOT GO OVER 1 PLAYER)",
+              "Buildings can now be placed in any rotation",
+              "Sandbags",
+              "Sentries",
+              "Ammo box (NEW)"
+            ]
+          },
+          "New Assault Tractor model",
+          "New Big Tractor model",
+          "New Tractor Hunter model"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "24.3.0",
+    "date": "2024-09-21",
+    "title": "The Komnenos Update",
+    "content": [
+      {
+        "header": "New Enemies",
+        "items": [
+          "15 enemies added to Civil War",
+          "4 enemies added to Impossible"
+        ]
+      },
+      {
+        "header": "New Items:",
+        "items": [
+          "Item gamepasses now have 1 extra accompanying item.",
+          "Dark Saber renamed to Unrighteous Crusader - Including also the Grenadier Armour",
+          "Banana launcha renamed to Potassium - Including also Banana & Bananas Invictus",
+          "XM Bellum HS21 renamed to Hoch Schwein Series - Including also the HS40 \"Mangonel\""
+        ]
+      },
+      {
+        "header": "Badges Rework",
+        "items": [
+          "The new XM Schiltron is locked behind the new Forged from Fire badge.",
+          "The new Feuerkuss is locked behind the new Time Will Bear Witness badge.",
+          "The new Feuerlanze is unlockable without requirements.",
+          "To Impale the Hearts of Tyrants is now restarted! You must now earn the updated version of this badge.",
+          "All main badges now have a damage requirement! Dealing sufficient amount of damage will now also count towards wave contribution."
+        ]
+      },
+      {
+        "header": "UI Rework",
+        "items": [
+          "New Item Shop UI, Voting UI, Badge UI",
+          "Mercenary shop moved to an NPC.",
+          "New performance improvements. New settings"
+        ]
+      },
+      {
+        "header": "Re-balances",
+        "items": [
+          "Emigna nerfed Interest no longer activates twice and will no longer activate after receiving income.",
+          "Income UI hopefully more accurate now.",
+          "The Economic perk 'Scrap' now also triggers when successfully capturing a vehicle"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "24.2.0",
+    "date": "2024-08-17",
+    "title": "The Colt Collab Update",
+    "content": [
+      {
+        "header": "New Content & Features",
+        "items": [
+          {
+            "New Map: Ballad": [
+              "A canal that used to be a popular grouping area for mobsters, now rebuilt into one of the Rogothian Team's bases for operations. Changed the lighting on all maps so hopefully they look more bearable. Furthermore, other maps have received flavour updates. As in, they'll actually affect gameplay."
+            ]
+          },
+          {
+            "New Feature: Hazard Conditions!": [
+              "Classic - Unchanged",
+              "Lazy Winter - There's a fog, but everybody knows that. Except it stays around at night now. Furthermore, all land NPCs including players will move more slowly on this map! Turns out snow isn't suitable for running. Or driving.",
+              "Wargame - Remember the destroyer occasionally patrolling far out? Those guys will be back more oftenly, depending on what difficulty you play now! Furthermore, vehicles will drive fairly quickly on this map.",
+              "Undead Site - There's a cliche red mist that harms your HP regeneration and also acts as a fog. It's less noticable at day but much more at night. The mist also disables night vision. Don't worry, you can still see at night. Curious.",
+              "Ballad - Unchanged, since it is a bridge."
+            ]
+          },
+          {
+            "New Hero: Emigna": [
+              "She's a melee, a bit slow, but deals good damage. She deals more damage the more time she spends attacking. I also spent a small amount of time on her AI, so maybe she won't be completely useless. But I have little faith in myself and the AI"
+            ]
+          },
+          {
+            "Added Falcon (courtesy of Vederence)": [
+              "This is a new allied aircraft which can be unlocked on the 5th level of the air branch. View its description in-game"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Weapon Adjustments:",
+        "items": [
+          {
+            "Annihilinator:": [
+              "Price: 25000 \u2192 30000",
+              "Weight: 120 \u2192 150"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "General Adjustments:",
+        "items": [
+          {
+            "Battlemage:": [
+              "He's got more health."
+            ]
+          },
+          "Fixed Civil War 2.0(tm) and also added a badge for it. Having this badge allows you to recruit..",
+          "Changed some soundtracks for Civil War.",
+          "Undead Brigade Tanks will now ignore enemies at longer distance.",
+          "Screaming Eagle now may appear more frequently. But wait, unfair, you say? I have nerfed their machine gun damage by 25%. Hooray. sorry, it's not free anymore. I'm taking it away."
+        ]
+      }
+    ],
+    "dev_comment": "Announcing the collaboration between.. Colt 2 and The Zombie's Revenge!! We are very grateful to have been given the opportunity to collaborate with the talented folks at Moonlight Rising! As such, we have prepared some content you may enjoy if you manage to earn a specific badge from each other's games!"
+  },
+  {
+    "version": "24.1.0",
+    "date": "2024-05-02",
+    "title": "The Final Update",
+    "content": [
+      {
+        "header": "This update includes..",
+        "items": [
+          "A partially complete Civil War. Experience 6 waves of the what-could-have-been gamemode.",
+          "Overhauled Mercenary GUI",
+          "Removal of \"Katana\"",
+          "Removal of \"Golden Katana\"",
+          "Removal of \"Flak Gun\"",
+          "Addition of \"Feuerregen\" - Mid-Game Melee Weapon",
+          "Addition of \"Zeushammer\" - Late-Game Melee Weapon",
+          "Overhauled \"Sword\" -> \"Sword and Shield\"",
+          "Return of \"Annihilationator\" - Late-Game Ranged Weapon",
+          "Remodels and Remasters of several Noob and Zombie NPCs.",
+          "New animation for.. M249, M134, Debellaturus, Sword"
+        ]
+      },
+      {
+        "header": "This list is possibly incomplete",
+        "items": []
+      }
+    ],
+    "dev_comment": "I will be no longer working on TZR. I can\u2019t stay here forever. This may not come across as surprising to some, alas, this decision is FINAL. Thank you for following our journey and playing this game. (john tzr note: bro didn't know he was gonna work on it for more years...)"
+  }
+]
