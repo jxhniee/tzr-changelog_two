@@ -1,33 +1,33 @@
 [
   {
-    "version": "26.4.8",
-    "date": "2026-08-15",
-    "title": "The Zombie's Revenge BETA!",
-    "content": [],
-    "dev_comment": "Unfortunately the game couldn't be recovered, however that doesn't mean our journey ends here. A new era begins! Please read, this is important!",
-    "content": [
-      {
-        "header": "Data Recovery:",
-        "items": [
-          "Badges will recover automatically upon joining a game, you will get your tokens and badges from the badges you earned previously",
-          "Levels will not be restored therefore everyone will start fresh. If you're upset, I apologize. This is our consequences",
-          "Gamepasses & Products are currently being discussed whether they should be recovered or not."
-        ]
-      },
-      {
-        "header": "Many Improvements:",
-        "items": [
-          "New Datastore has arrived, making the data faster than ever.",
-          "Many improvements to the AI of enemies",
-        ]
-      },
-    ],
-    "highlights": [
-      "Badges will automatically recover",
-      "Gamepasses & Products are temporarily disabled",
-      "REMINDER: LEVELS WILL NOT BE RECOVERED. EVERYONE STARTS FRESH"
-    ]
+      "version": "26.4.8",
+      "date": "2026-08-15",
+      "title": "The Zombie's Revenge BETA!",
+      "dev_comment": "Unfortunately the game couldn't be recovered, however that doesn't mean our journey ends here. A new era begins! Please read, this is important!",
+      "content": [
+        {
+          "header": "Data Recovery:",
+          "items": [
+            "Badges will recover automatically upon joining a game, you will get your tokens and badges from the badges you earned previously",
+            "Levels will not be restored therefore everyone will start fresh. If you're upset, I apologize. This is our consequences",
+            "Gamepasses & Products are currently being discussed whether they should be recovered or not."
+          ]
+        },
+        {
+          "header": "Many Improvements:",
+          "items": [
+            "New Datastore has arrived, making the data faster than ever.",
+            "Many improvements to the AI of enemies"
+          ]
+        }
+      ],
+      "highlights": [
+        "Badges will automatically recover",
+        "Gamepasses & Products are temporarily disabled",
+        "REMINDER: LEVELS WILL NOT BE RECOVERED. EVERYONE STARTS FRESH"
+      ]
   },
+  
   {
     "version": "26.4.2",
     "date": "2026-07-10",
