@@ -1,33 +1,117 @@
 [
   {
-      "version": "26.4.8",
-      "date": "2026-08-15",
-      "title": "The Zombie's Revenge BETA!",
-      "dev_comment": "Unfortunately the game couldn't be recovered, however that doesn't mean our journey ends here. A new era begins! Please read, this is important!",
-      "content": [
-        {
-          "header": "Data Recovery:",
-          "items": [
-            "Badges will recover automatically upon joining a game, you will get your tokens and badges from the badges you earned previously",
-            "Levels will not be restored therefore everyone will start fresh. If you're upset, I apologize. This is our consequences",
-            "Gamepasses & Products are currently being discussed whether they should be recovered or not."
-          ]
-        },
-        {
-          "header": "Many Improvements:",
-          "items": [
-            "New Datastore has arrived, making the data faster than ever.",
-            "Many improvements to the AI of enemies"
-          ]
-        }
-      ],
-      "highlights": [
-        "Badges will automatically recover",
-        "Gamepasses & Products are temporarily disabled",
-        "REMINDER: LEVELS WILL NOT BE RECOVERED. EVERYONE STARTS FRESH"
-      ]
+    "version": "26.5.0",
+    "date": "2026-08-28",
+    "title": "The LaetusUpdate",
+    "content": [
+      {
+        "header": "Information & Data Recovery",
+        "items": [
+          "Information: First and first most, we'll like to update any of you who haven't been in touch with the updates of The Zombie's Revenge (TZR). We were unfortunately attacked on July 17th, losing our game & group, being stolen from us. This impacted severely and halted our development, however we since regained access to the group and opened the game on August 7th, despite our success of getting the group back. It seems the original game will remain stolen us. So, to remind you 31 Gaming is NOT our new game.",
+          {
+            "Data Recovery: Player's who has purchased any gamepasses, or earned achievements in the original game will automatically transfer to the new game!": [
+              "However, LEVELS will not recover as that is a momentual effort and would be unfair to other players. So everyone is starting fresh.",
+              "Those who bought token products will be transferrable but unfortunately have to be done outside of here."
+            ]
+          },
+          "Now lets get into the content!"
+        ]
+      },
+      {
+        "header": "Game Contents & Features",
+        "items": [
+          "The datastore has been completely overhauled",
+          "TZR has been completely restructured so loading times are even faster!",
+          {
+            "New voting UI": [
+              "Additionally, this overhauls the modifier as a whole! Modifiers can be selected on any difficulty (except british, and endless)"
+            ]
+          },
+          "New preview of a sub-storyline of Civil War called: Prelude!",
+          {
+            "New Modifiers:": [
+              "Attrition",
+              "Great Man Theory",
+              "Quick Surprise!",
+              "Indomitable",
+              "Tank DUel"
+            ]
+          },
+          "New leaderboards!",
+          "New Main Menu!",
+          {
+            "Endless has been updated!": [
+              "On wave 20, Tank Duel is enabled",
+              "If not Under Siege. On wave 25, Lukhea's storm is enabled",
+              "On Wave 40, Indomitable is enabled",
+              "Additionally, new enemies appears!",
+              "On Wave 80, Attrition is enabled"
+            ]
+          },
+          "Private servers now exist in-game meaning you dont need to join by creating a private server anymore!"
+        ]
+      },
+      {
+        "header": "General Adjustments",
+        "items": [
+          "Changes to Air Branch",
+          "Reverted 2.5k price increase to RDF AIR 4",
+          "Fixed RDF AIR upgrades not working properly, tooltips now accurate",
+          "Added a new Albatross (Strike) Ally NPC for RDF AIR 1. It'll occasionally spawn and fly one way round the map and then disappear",
+          "RDF AIR 1 now provides other benefits",
+          {
+            "Adjusted RDF Scaling, now scales up to 150% at Civil War/Divergence IMP": [
+              "Increased price of RDF Tank Tier 5, Infantry Tier 3, 4, 5, Air Tier 4 by a grand total of 15k",
+              "Increased HP and Regen of all ALLY Ultratech units, ranging from 2x to 1.5x"
+            ]
+          },
+          "We did a lot of stats adjustment but I fear I reached the limit."
+        ]
+      },
+      {
+        "header": "Damage Adjustments",
+        "items": [
+          "Nerfed Fusilier dmg by 25%"
+        ]
+      },
+      {
+        "header": "Bug Fixes",
+        "items": [
+          "Fixed AI Pathfinding",
+          "Performance Improvements"
+        ]
+      }
+    ],
+    "dev_comment": "Welcome back! We missed you! After a long development cycle, the game is finally out of beta and officially released! A lot has changed. If you missed the beta entirely, sit down, because this is a lot to catch up on. If you were already following along during the beta, this recap is for anyone who wasn't."
   },
-  
+  {
+    "version": "26.4.8",
+    "date": "2026-08-15",
+    "title": "The Zombie's Revenge BETA!",
+    "dev_comment": "Unfortunately the game couldn't be recovered, however that doesn't mean our journey ends here. A new era begins! Please read, this is important!",
+    "content": [
+      {
+        "header": "Data Recovery:",
+        "items": [
+          "Badges will recover automatically upon joining a game, you will get your tokens and badges from the badges you earned previously",
+          "Levels will not be restored therefore everyone will start fresh. If you're upset, I apologize. This is our consequences",
+          "Gamepasses & Products are currently being discussed whether they should be recovered or not."
+        ]
+      },
+      {
+        "header": "Many Improvements:",
+        "items": [
+          "New Datastore has arrived, making the data faster than ever.",
+          "Many improvements to the AI of enemies"
+        ]
+      }
+    ],
+    "highlights": [
+      "Badges will automatically recover",
+      "Gamepasses & Products are temporarily disabled",
+      "REMINDER: LEVELS WILL NOT BE RECOVERED. EVERYONE STARTS FRESH"
+    ]
+  },
   {
     "version": "26.4.2",
     "date": "2026-07-10",
