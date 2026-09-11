@@ -1,5 +1,81 @@
 [
   {
+    "version": "26.5.1",
+    "date": "2026-09-11",
+    "title": "Life Quality Patches 04",
+    "content": [
+      {
+        "header": "Reminder",
+        "items": [
+          "We clearly haven't addressed all bugs in the game, however we are taking our time to fix most of them this entire week so we don't leave you guys hanging for another week again!"
+        ]
+      },
+      {
+        "header": "Quality of Life",
+        "items": [
+          {
+            "Achievement caching has been rewritten and is more efficient when validating badges. it update checks every unowned badge once, in two passes: first everything without a prerequisite, then everything that has one, repeating that second pass a few times so multi-level chains (a badge needing a badge needing a badge) can fully resolve in one join. Along the way, it skips any badge whose prerequisite is already confirmed unowned, and never re-asks BadgeService the same question twice, using far fewer live calls than checking everything independently would. Which the old one did, which was NOT efficient": [
+              "Achievement cache now exists in the main menu to speed up the process even faster when joining new servers",
+              "Empire Servant now exists inside the new datastore, which all the values of the old datastore will transfer over"
+            ]
+          },
+          {
+            "Setting UI has been internally and visually redesigned. There's new settings that will appear in the upcoming days!": [
+              "Server Information NOW exist in Setting UI with even more information about the server."
+            ]
+          },
+          {
+            "Achievement UI statistic and achievement tab has redesigned": [
+              "Player Achievements now exist in the Achievement Tab.",
+              "Achievements will no longer refresh, as it will automatically update when a new badge has been unlocked. Which visually shows what you unlocked!",
+              "Statistic has been visually redesigned."
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Adjustments:",
+        "items": [
+          "Public servers now have access to dialogue speed which caps at 2x while private servers can cap it at 3.5x",
+          "Scoping will now wobble and sway less for a tighter aim",
+          "Reverted a previous buff to Cypher\u2019s passive regeneration that was made as a temporary measure due to him not using his healing ability consistently back then.",
+          {
+            "Battlemages": [
+              "Buffed base health",
+              "No longer spawns in with a shield already applied"
+            ]
+          },
+          {
+            "XM Ignis": [
+              "Special keybind changed from RMB -> Q due to interference with camera rotation"
+            ]
+          },
+          "Changed how attaching buildings onto entities works. Should result in more consistent and less buggy scenarios related to it."
+        ]
+      },
+      {
+        "header": "Bug Fixes",
+        "items": [
+          "Fixed a bug where leftover save data from a previous session could carry over into a new session, sometimes triggering false anti-cheat flags.",
+          "Fixed the weekend boost notifier in the menu not appearing",
+          "Fixed the main menu for console players",
+          "Fixed the issue with starting weapons being stolen away",
+          "Fixed Twice The Pride badge not being awarded",
+          "Fixed Empire Servant",
+          "Fixed Oversized Rodent being unobtainable",
+          "For the longest time, there has been a bug that was persisting inside the UI achievement which didn't update the achievements and lasted for ages until now, which it has shown itself. This is now fixed (Hint, it was the golden katana..)",
+          "Possibly fixed private servers, this is something that will need to be actively monitored once released as it is unfortunately not feasible in studio.",
+          "Fixed the dialogue speed issue with private servers",
+          "Fixed helmet & armour hiding issues",
+          "Fixed Peltast, M250, PSMG56 using legacy scope system",
+          "Zombifieds weird accessory position has been fixed",
+          "Fixed  Power Fist & Pow Wow 5000, Explosion now appears at the fist\u2019s position instead of the position of the target (caused unusual behaviour with larger units like Maus)"
+        ]
+      }
+    ],
+    "dev_comment": "We are so sorry we left you with massive amount of bugs, we promise this won't happen again. We fixed a lot of bugs, and planning to fix more bugs this ENTIRE WEEK, so expect frequent publishes!"
+  },
+  {
     "version": "26.5.0",
     "date": "2026-08-28",
     "title": "The Laetus Update",
