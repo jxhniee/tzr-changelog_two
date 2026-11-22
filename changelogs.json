@@ -6,6 +6,60 @@
     "content": []
   },
   {
+    "version": "26.5.4",
+    "date": "2026-09-20",
+    "title": "Life Quality Patches 03",
+    "content": [
+      {
+        "header": "New Features & Content:",
+        "items": [
+          "NEW: The audios are now adjustable in the settings during the sewer section",
+          "Reworked Respawn Time"
+        ]
+      },
+      {
+        "header": "General Adjustments",
+        "items": [
+          "Reduced XP count for high XP maps to hopefully more accurately reflect their given difficulty",
+          {
+            "Landmine adjustments:": [
+              "T3 AT landmine now instead works on a diminishing pierce factor, dealing 50% less damage for each target (ex. 10000, 5000, 2500)",
+              "EMP stun should still only apply to the first/nearest target hit"
+            ]
+          },
+          {
+            "The Apprentice:": [
+              "reverted hitbox duration extension and size buff (same as battlemages now)",
+              "disabled healing ability until further notice",
+              "base health slightly reduced",
+              "shield health greatly increased, single use",
+              "something extra on rage"
+            ]
+          },
+          "You still override over mercenaries, but you won't override credit that had been applied by a direct attack from another player (ex. direct ranged hit or initial melee hit)",
+          "Halved HP Bonus given by melee",
+          "Reduced priority of most player AOE attacks for kill credit",
+          "Removed Mental Fortitude mechanic, MF specific mechanic now naturalized into the stats instead"
+        ]
+      },
+      {
+        "header": "Bug Fixes",
+        "items": [
+          "Sound effects that were supposed to be audible in the sewer section are now audible again (enemies, door opening, water splashing, etc)",
+          "Fixed the audio issues during the sewers",
+          "Fixed scope sway not adjusting to actual aiming sensitivity",
+          {
+            "Fixed Miraculum Orientis dealing 40% more DPS than otherwise advertised": [
+              "Displayed DPS is unchanged but internal value is tweaked to reflect this"
+            ]
+          },
+          "Fixed Andriscus shooting from across the map",
+          "Fixed Anni flame not working"
+        ]
+      }
+    ]
+  },
+  {
     "version": "26.5.3",
     "date": "2026-09-12",
     "title": "Patch 02",
