@@ -1,5 +1,51 @@
 [
   {
+    "version": "26.5.8",
+    "date": "2026-10-23",
+    "title": "Life Quality Hotfix 02",
+    "content": [
+      {
+        "header": "New Decorations:",
+        "items": [
+          "Lobby has had a makeover, its the SPOOKY SEASON",
+          "Rogothian APCs like Attica and Hellas (including Republican Guard variant) now can only have 1 unit spawned at a time instead of 2, and spawning cooldown for all APCs is increased to 6s from 5s. Total carried NPCs unchanged, but an Attica and Hellas can now only spawn 1 NPC at all time (until the NPC dies), with a reserve of 3"
+        ]
+      },
+      {
+        "header": "General Adjustments:",
+        "items": [
+          "Up to 6 captured tanks may now spawn at all times instead of 3",
+          "Curbed XP formula settings in custom",
+          "Increased Civil War custom XP formula multiplier",
+          {
+            "Contact Charge nerfed": [
+              "Weight: 10 -> 50"
+            ]
+          },
+          {
+            "Annihilationator rebalanced": [
+              "Weight: 150 -> 200",
+              "DMG: 800 -> 1000",
+              "Accuracy: 75% -> 85%",
+              "Range: 700-2100 -> 1000-4000"
+            ]
+          },
+          "Fixes to Aggressive AI (it will now properly stop within core's range)"
+        ]
+      },
+      {
+        "header": "Bug Fixes:",
+        "items": [
+          "Fixed Death Eagles",
+          "Fixed King Eagles",
+          "Fixed NPCs not having a helmet",
+          "Fixed Sky Terror's Regen and increased it while healing at base",
+          "Fixed Vale Autumns"
+        ]
+      }
+    ]
+  },
+  {
     "version": "26.5.6",
     "date": "2026-10-17",
     "title": "Life Quality Update 01",
