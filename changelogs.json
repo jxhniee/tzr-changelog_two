@@ -1,5 +1,86 @@
 [
   {
+    "version": "26.5.6",
+    "date": "2026-10-17",
+    "title": "Life Quality Update 01",
+    "content": [
+      {
+        "header": "New Features & Content:",
+        "items": [
+          "We have re-added Custom Mode!",
+          "Added a new badge: Beautiful Site Badge",
+          "Reworked RDF Infantry tier 3"
+        ]
+      },
+      {
+        "header": "General Adjustments:",
+        "items": [
+          "Pierce diminish per hit reduced to 25%",
+          "EMP stun now works in a similar manner but with duration",
+          {
+            "Pinging changes": [
+              "Behaves more like a high priority target designator (for any valid units that would follow the player\u2019s pinging) instead of being a direct target override",
+              "Now has to obey targeting restrictions (ex. tank cannons can\u2019t target aerial)"
+            ]
+          },
+          "Tactical Eyes now boosts utility recharge speed by 35% instead of 10%",
+          {
+            "Engineer Changes:": [
+              "Max Carry Capacity upgrade; increases the amount of buildings you can carry (right-click)"
+            ]
+          },
+          "Field Maintenance NPCs now prioritize damaged tanks instead of just tanks",
+          "Field Maintenance NPCs now heal tanks more, allied FM NPCs get a bonus to healing tanks"
+        ]
+      },
+      {
+        "header": "Capture Adjustments:",
+        "items": [
+          {
+            "Captured ZAC/ZTR/ZTR-2": [
+              "Converted to updated tank system",
+              "No longer spawns in any units",
+              "More units supported",
+              "units that can\u2019t normally be captured can be salvaged instead for the same Scraps perk coin gain"
+            ]
+          },
+          "Buffed (Allied only) Melee Specialist, Melee Veteran, Champion HP"
+        ]
+      },
+      {
+        "header": "Armor Adjustments:",
+        "items": [
+          {
+            "Legion XII Armor Changes": [
+              "Building Carry Capacity +2"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Bug Fixes:",
+        "items": [
+          "Attempted piercing fix",
+          "Fixed the contract UI visually appearing when the contract hasn't been setup",
+          "Fixed some visual issues with the contract UI displaying inaccurate awards based on having the badge or not",
+          "Fixed the difficulty colors that displays on Normal and Easy, it will now correctly display the correct colors",
+          "Undead Site Contract: Fixed the spawn issue for the two zombies during the first encounter when entering the generator room for the first time.",
+          "Undead Site Contract: When collecting metal debris during the alternate run for the sewers. You're now able to collect two instead of one.",
+          "Undead Site Contract: Fixed even more audio issues not being audible in the sewers",
+          "Fixed captured lieben traktor",
+          "Fixed insta-capture chance instead being coded to be chance that captured vehicle gets added to the captured spawner",
+          "Fixed Tactical Eye(s) not giving any modifiers at all",
+          "Added more boundaries to The Watch",
+          "NPCs getting stuck and softlocking the game should now be a less common occurence",
+          "Fixed Retreat positions for Joe and Dark Champion on specific maps",
+          "Fixed certain issues around certain maps",
+          "The loading issue has been fixed and loads incredibly fast",
+          "Fixed the skip button being persistent after you already skip the loading skip (impatient people these days smh....)"
+        ]
+      }
+    ]
+  },
+  {
     "version": "26.5.5",
     "date": "2026-09-24",
     "title": "Minor Content & Patches",
