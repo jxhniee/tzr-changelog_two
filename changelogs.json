@@ -1,5 +1,39 @@
 [
   {
+    "version": "26.5.3",
+    "date": "2026-09-12",
+    "title": "Patch 02",
+    "content": [
+      {
+        "header": "New Features:",
+        "items": [
+          {
+            "New settings has arrived!": [
+              "**Low Detail Explosions:** Changes the default explosion visual to a basic expanding sphere. Doesn\u2019t affect custom visuals.",
+              "**Hide Other Player Projectiles:** Hides most projectiles from other players.",
+              "**Camera Sensitivity:** The sensitivity of the camera, recommended for mobile players.",
+              "**Aiming Sensitivity:** Adjusts the sensitivity of the camera when aiming down with a weapon. Multiplies onto regular sensitivity.",
+              "**Auto Vote Skip: **`Disabled by default, Auto-votes to skip during intermission when enabled."
+            ]
+          },
+          "Re-added the goggles hide button!"
+        ]
+      },
+      {
+        "header": "Bug Fixes:",
+        "items": [
+          {
+            "Private Servers are OFFICIALLY FIXED!": [
+              "When leaving your own private servers with your friends inside, the player who joined after you will now own the server"
+            ]
+          },
+          "Fixed the Armour Hide bug, this will no longer break the shop!",
+          "I fixed some issues with empire servant sub-objectives not transferring. This is now fixed and you should be able to get the new bagde in the main menu!"
+        ]
+      }
+    ]
+  },
+  {
     "version": "26.5.1",
     "date": "2026-09-11",
     "title": "Life Quality Patches 04",
