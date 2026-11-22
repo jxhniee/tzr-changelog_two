@@ -81,6 +81,35 @@
     ]
   },
   {
+    "version": "26.5.7",
+    "date": "2026-10-17",
+    "title": "Life Quality Patches 05",
+    "content": [
+      {
+        "header": "New Decorations:",
+        "items": [
+          "Lobby has had a makeover, its the SPOOKY SEASON"
+        ]
+      },
+      {
+        "header": "General Adjustments:",
+        "items": [
+          "Custom Mode button is visible regardless you meet the requirements or not, if not it will show you the requirements",
+          "Sentries are affected by one shot and head shall fall now"
+        ]
+      },
+      {
+        "header": "Bug Fixes:",
+        "items": [
+          "Undead Site Contract: Fixed the alternative route for the sewers",
+          "Fixed certain perks not affecting Sentry stats when they have the icon displayed saying they do",
+          "Attempted patch to reduce sentries snapping their necks and getting stuck indefinitely",
+          "Undead Site Contract: Fixed the game softlocking when tryingg to insert the fuse into the generator"
+        ]
+      }
+    ]
+  },
+  {
     "version": "26.5.5",
     "date": "2026-09-24",
     "title": "Minor Content & Patches",
