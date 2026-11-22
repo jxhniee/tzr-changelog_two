@@ -1,5 +1,73 @@
 [
   {
+    "version": "26.5.9",
+    "date": "2026-11-11",
+    "title": "HAPPY 5TH ANNIVERSARY",
+    "content": [
+      {
+        "header": "New Content & Redesigns",
+        "items": [
+          {
+            "New Maps!": [
+              "Vale Obscritas (VARIANT) (Available until the event ends)",
+              "The Countryside"
+            ]
+          },
+          {
+            "A Redesigned Map!": [
+              "Classic, by Geo!"
+            ]
+          },
+          {
+            "New Badges!": [
+              "A Roarin' Lion",
+              "Watching From Above",
+              "Gelbsfall Rampage",
+              "Rural Peacemaker"
+            ]
+          },
+          {
+            "New Weapon!": [
+              "The Flak!"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "5th Anniversary Event! [ENDED]",
+        "items": [
+          "The Rogothian's are celebrating their birthday, the lobby has had a makeover for this special occasion!",
+          "All Contracts are available!",
+          "A 50% sale for Tokens & Gamepasses",
+          {
+            "New Items!": [
+              "**Wooden Katana**"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Bug Fixes",
+        "items": [
+          {
+            "Undead Site Contract:": [
+              "Any explosive projectiles can explode the pumps during the timed wave",
+              "Fixed Audio Syncing issues that caused Wave 9 soft locking",
+              "Fixed the Sewer Zombie spawning being bugged, softlocking the sewer part",
+              "Doors are faster to interact when heading to the sewers"
+            ]
+          },
+          "Fixed many of enemies AI's",
+          "Attempted a fix for Cypher AI",
+          "Fixed an issue with Undead Site and The Empire Servant Badge. It will now be marked complete as a sub-objective",
+          "Fixed an issue with Vale Variant's soft locking on Wave 7",
+          "Fixed memory leaks with contracts (oops)"
+        ]
+      }
+    ],
+    "dev_comment": "I first and foremost want to thank everyone who stuck with us throughout the years of this game lifespan, whether you came around Rampage era or the early days of TZR. I thank everyone that stood by when the game was hacked and compromised by the hacker... Its been a rough year for us but we are clearly trying to manage our time to give meaningful updates and I hope you understand that what happened to us in July still is rippling through us. We hope that the next few weeks of this year you'll be indulged into loads of content because we are COOKING."
+  },
+  {
     "version": "26.5.8",
     "date": "2026-10-23",
     "title": "Life Quality Hotfix 02",
