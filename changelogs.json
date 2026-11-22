@@ -76,6 +76,37 @@
     "dev_comment": "We are so sorry we left you with massive amount of bugs, we promise this won't happen again. We fixed a lot of bugs, and planning to fix more bugs this ENTIRE WEEK, so expect frequent publishes!"
   },
   {
+    "version": "26.5.2",
+    "date": "2026-09-11",
+    "title": "Hotfix 01",
+    "content": [
+      {
+        "header": "Adjustments & Additions",
+        "items": [
+          "Added a loading message in the menu so people don't flip that their badges isn't loading",
+          {
+            "Readded the final badges:": [
+              "Raised like a Frog",
+              "Blame Cypher!",
+              "Random Act of Kindnes"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Bug Fixes",
+        "items": [
+          "Fixed the badge system giving errors",
+          "Fixed Oversized Rodent fr this time",
+          "Fixed a visual glitch with the azura badge display in the statistic frame",
+          "Added failsafes to achievement loading",
+          "Fixed Zath having infinite amount of gas in his jetpack",
+          "Maus for the longest time was erroring upon death, so if anything happened or was related to maus during his death. It didn't go through, this is now fixed"
+        ]
+      }
+    ]
+  },
+  {
     "version": "26.5.0",
     "date": "2026-08-28",
     "title": "The Laetus Update",
