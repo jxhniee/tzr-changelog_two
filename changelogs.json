@@ -73,7 +73,13 @@
         ]
       }
     ],
-    "dev_comment": "It's been a grueling two months of what felt like six million patches and not much new content. We've been busy fixing and stabilizing the game while handling our personal lives and working on new content behind the scenes. But after two long months, I'm proud to announce that we are FINALLY releasing a new update!"
+    "dev_comment": "It's been a grueling two months of what felt like six million patches and not much new content. We've been busy fixing and stabilizing the game while handling our personal lives and working on new content behind the scenes. But after two long months, I'm proud to announce that we are FINALLY releasing a new update!",
+    "highlights": [
+      "Divergence has been reworked from the ground up! It is now told in 2 parts: **The Inflection Point (1862), and Continuation War (1862)**",
+      "New Armors & Redesigns",
+      "New Voting UI Redesigns",
+      "Many Adjustments!"
+    ]
   },
   {
     "version": "26.5.9",
