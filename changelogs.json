@@ -1,5 +1,81 @@
 [
   {
+    "version": "26.6.0",
+    "date": "2026-11-27",
+    "title": "The Scipio Update",
+    "content": [
+      {
+        "header": "New Content & Features",
+        "items": [
+          {
+            "Divergence has been reworked from the ground up! It is now told in 2 parts: **The Inflection Point (1862), and Continuation War (1862)**. As of now, part two will unlock on <t:1796396400:s>, to ensure players have enough time to properly play part one.. This doesnt mean part one barely has anything, it has two parts FOR A REASON.... Part 1 and Part 2introduces:": [
+              "Enemies!",
+              "New Characters!",
+              "New Soundtracks!",
+              "New Badges!"
+            ]
+          },
+          {
+            "Alongside, there has been additions & redesigns for Armors!": [
+              "Reworked Novum Laminam",
+              "Added Reinforced Novum Laminam",
+              "Added Blade Dancer",
+              "Added Weapons Operator Kit",
+              "Added Advanced Operator Kit",
+              "Added Recon Ghillie",
+              "Added Reformed Recon",
+              "Added Phoenix Officer"
+            ]
+          },
+          {
+            "Voting UI has had a redesign:": [
+              "Icons has been reworked",
+              "A redesign to the difficulty section of the voting UI, which expands the lore!"
+            ]
+          },
+          "Empire Servant has been updated to include: **The Watch, Heart of Lion, and The Countryside.** This doesn't change the badge and requires ONLY 8 SUB-OBJECTIVES to be completed. If you wish to complete all of them, you can but you won't be awarded with nothing.",
+          {
+            "25.5.9 Changes:": [
+              "A new map has appeared: The Countryside",
+              "A new variant map has appeared: Vale Obscritas",
+              "Classic has been Redesigned"
+            ]
+          },
+          "Difficulty Display has been visually changed",
+          "On December 1st, a new lobby makeover will appear as it is going to be the time of the month! **CHRISTMAS**!!!"
+        ]
+      },
+      {
+        "header": "General Adjusrments",
+        "items": [
+          "Legion XIV Aswaran no longer does things to Jorg (though he'll probably still die in other ways)",
+          "Removed a weird niche damage increase to sentries, caused when the player character is buffed by sandbags",
+          "Converted landmines' various stacking modifiers to be additive instead of multiplicative to remain consistent with other damage types",
+          "Dual Role now needs the weapon to worth at least $2000",
+          "Reimplemented dev servers, where stats do not save (admin abuse \ud83e\udd79)",
+          "EASY now less EASY",
+          "Bri'ish difficulty moved to Simulation section",
+          "Vale Obscritas  was originally a map that can be picked anytime due to the event that was ongoing, it is now apart of the variant rotation.",
+          "Tank AI has been improved",
+          "Removed player count scaling from desperation vindictahn\u2019s melee attacks",
+          "Small change to Classic Enhancement \u2060Weird tree placements"
+        ]
+      },
+      {
+        "header": "Bug Fixes",
+        "items": [
+          "Fixed Jobst not having a spawn cap",
+          "Fixed a critical AI bug that caused severe lag spikes",
+          "Tanks no longer consider height with movement, which should reduce tanks spinning in circles.",
+          "Medkits should error less often",
+          "Fixed Border Outpost not being awarded as a sub-obejctive for empire servant",
+          "Many more!"
+        ]
+      }
+    ],
+    "dev_comment": "It's been a grueling two months of what felt like six million patches and not much new content. We've been busy fixing and stabilizing the game while handling our personal lives and working on new content behind the scenes. But after two long months, I'm proud to announce that we are FINALLY releasing a new update!"
+  },
+  {
     "version": "26.5.9",
     "date": "2026-11-11",
     "title": "HAPPY 5TH ANNIVERSARY",
